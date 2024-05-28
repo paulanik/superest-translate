@@ -12,7 +12,7 @@
       "The database is under an unusual load.": ["ডাটাবেস একটি অস্বাভাবিক লোড অধীনে"],
       "The database returned an unexpected error.": ["ডাটাবেসটি একটি অপ্রত্যাশিত ত্রুটি ফিরিয়ে দিয়েছে"],
       "There is a syntax error in the SQL query. Perhaps there was a misspelling or a typo.": [
-        "SQL ক্যোয়ারীতে একটি সিনট্যাক্স ত্রুটি আছে"
+        "SQL ক্যোয়ারীতে সিনট্যাক্স ত্রুটি আছে"
       ],
       "The column was deleted or renamed in the database.": [""],
       "The table was deleted or renamed in the database.": [""],
@@ -496,35 +496,35 @@
       "Changed By": ["পরিবর্তিত"],
       "Database": ["ডাটাবেস"],
       "Last Changed": ["শেষ পরিবর্তন"],
-      "Enable Filter Select": ["ফিল্টার নির্বাচন সক্ষম করুন"],
+      "Enable Filter Select": ["ফিল্টার নির্বাচন করুন"],
       "Schema": ["ছক"],
-      "Default Endpoint": [""],
-      "Offset": [""],
-      "Cache Timeout": [""],
-      "Table Name": [""],
+      "Default Endpoint": ["ডিফল্ট শেষপ্রান্ত"],
+      "Offset": ["অফসেট"],
+      "Cache Timeout": ["ক্যাশের সময় সীমা"],
+      "Table Name": ["টেবিল নাম"],
       "Fetch Values Predicate": [""],
-      "Owners": [""],
-      "Main Datetime Column": [""],
-      "SQL Lab View": [""],
-      "Template parameters": [""],
-      "Modified": [""],
+      "Owners": ["মালিক"],
+      "Main Datetime Column": ["মূল তারিখ কলাম "],
+      "SQL Lab View": ["এসকিউএল ল্যাব দৃশ্য"],
+      "Template parameters": ["টেমপ্লেট প্যারামিটার"],
+      "Modified": ["সংশোধিত"],
       "The table was created. As part of this two-phase configuration process, you should now click the edit button by the new table to configure it.": [
-        ""
+        "টেবিলটি তৈরি করা হয়েছে। এই দুটি ধাপের কনফিগারেশন প্রক্রিয়ার একটি অংশ হিসাবে, আপনাকে এখন নতুন টেবিলের সাথে কনফিগার করার জন্য সম্পাদনা বোতামে ক্লিক করতে হবে।"
       ],
-      "Deleted %(num)d css template": ["", "Deleted %(num)d css templates"],
-      "Dataset schema is invalid, caused by: %(error)s": [""],
-      "Deleted %(num)d dashboard": ["", "Deleted %(num)d dashboards"],
-      "Title or Slug": [""],
-      "Role": [""],
-      "Invalid state.": [""],
-      "Table name undefined": [""],
-      "Upload Enabled": [""],
+      "Deleted %(num)d css template": [" %(num)d টি সিএসএস টেমপ্লেট মুছে ফেলা হয়েছে ", "Deleted %(num)d css templates"],
+      "Dataset schema is invalid, caused by: %(error)s": ["ডেটাসেট স্কিমা অবৈধ, কারণ: %(error)s"],
+      "Deleted %(num)d dashboard": ["%(num)d ড্যাশবোর্ড মুছে ফেলা হয়েছে", "Deleted %(num)d dashboards"],
+      "Title or Slug": ["শিরোনাম বা স্লাগ"],
+      "Role": ["ভূমিকা"],
+      "Invalid state.": ["অবৈধ আবস্থা"],
+      "Table name undefined": ["টেবিল নাম অস্পষ্ট"],
+      "Upload Enabled": ["আপলোড সক্ষম"],
       "Invalid connection string, a valid string usually follows: backend+driver://user:password@database-host/database-name": [
-        ""
+        "অবৈধ সংযোগ স্ট্রিং, একটি বৈধ স্ট্রিং সাধারণত অনুসরণ করে। backend+driver://user:password@database-host/database-name"
       ],
-      "Field cannot be decoded by JSON. %(msg)s": [""],
+      "Field cannot be decoded by JSON. %(msg)s": ["ফিল্ডটি জেসন দ্বারা ডিকোড করা যাবে না। %(msg)s "],
       "The metadata_params in Extra field is not configured correctly. The key %(key)s is invalid.": [
-        ""
+        "অতিরিক্ত ফিল্ডে মেটাডাটা_পারামস সঠিকভাবে কনফিগার করা হয়নি। কী %(key)s অবৈধ।"
       ],
       "An engine must be specified when passing individual parameters to a database.": [
         ""

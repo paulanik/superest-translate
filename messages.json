@@ -12,7 +12,7 @@
       "The database is under an unusual load.": ["ডাটাবেস একটি অস্বাভাবিক লোড অধীনে"],
       "The database returned an unexpected error.": ["ডাটাবেসটি একটি অপ্রত্যাশিত ত্রুটি ফিরিয়ে দিয়েছে"],
       "There is a syntax error in the SQL query. Perhaps there was a misspelling or a typo.": [
-        ""
+        "SQL ক্যোয়ারীতে একটি সিনট্যাক্স ত্রুটি আছে"
       ],
       "The column was deleted or renamed in the database.": [""],
       "The table was deleted or renamed in the database.": [""],

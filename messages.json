@@ -2,15 +2,15 @@
   "domain": "superset",
   "locale_data": {
     "superset": {
-      "22": [""],
+      "22": ["২২"],
       "": {
         "domain": "superset",
         "plural_forms": "nplurals=2; plural=(n != 1)",
         "lang": "en"
       },
-      "The datasource is too large to query.": [""],
-      "The database is under an unusual load.": [""],
-      "The database returned an unexpected error.": [""],
+      "The datasource is too large to query.": ["ডেটাসোর্সটি অনুসন্ধানের জন্য খুব বড়"],
+      "The database is under an unusual load.": ["ডাটাবেস একটি অস্বাভাবিক লোড অধীনে"],
+      "The database returned an unexpected error.": ["ডাটাবেসটি একটি অপ্রত্যাশিত ত্রুটি ফিরিয়ে দিয়েছে"],
       "There is a syntax error in the SQL query. Perhaps there was a misspelling or a typo.": [
         ""
       ],

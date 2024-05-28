@@ -492,12 +492,12 @@
       "Datasets can have a main temporal column (main_dttm_col), but can also have secondary time columns. When this attribute is true, whenever the secondary columns are filtered, the same filter is applied to the main datetime column.": [
         ""
       ],
-      "Associated Charts": [""],
-      "Changed By": [""],
-      "Database": [""],
-      "Last Changed": [""],
-      "Enable Filter Select": [""],
-      "Schema": [""],
+      "Associated Charts": ["সংশ্লিষ্ট চার্ট"],
+      "Changed By": ["পরিবর্তিত"],
+      "Database": ["ডাটাবেস"],
+      "Last Changed": ["শেষ পরিবর্তন"],
+      "Enable Filter Select": ["ফিল্টার নির্বাচন সক্ষম করুন"],
+      "Schema": ["ছক"],
       "Default Endpoint": [""],
       "Offset": [""],
       "Cache Timeout": [""],

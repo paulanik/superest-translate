@@ -999,27 +999,27 @@
         ""
       ],
       "CSV file \"%(csv_filename)s\" uploaded to table \"%(table_name)s\" in database \"%(db_name)s\"": [
-        ""
+        "সিএসভি ফাইল\ সিএসভি ফাইলের নাম\ টেবিলে আপলোড করতে হবে \ টেবিল নাম\ ডেটাবেস \ ডেটাবেসের নাম"
       ],
-      "Excel to Database configuration": [""],
+      "Excel to Database configuration": ["এক্সেল থেকে ডাটাবেস কনফিগারেশন"],
       "Database \"%(database_name)s\" schema \"%(schema_name)s\" is not allowed for excel uploads. Please contact your Superset Admin.": [
-        ""
+        "ডাটাবেস\ ডেটাবেসের নাম\ স্কিমা\(স্কিমা_নাম)\ এক্সেল আপলোডের জন্য অনুমোদিত নয়, আপনার সুপারসেট অ্যাডমিনের সাথে যোগাযোগ করুন "
       ],
       "Unable to upload Excel file \"%(filename)s\" to table \"%(table_name)s\" in database \"%(db_name)s\". Error message: %(error_msg)s": [
-        ""
+        "এক্সেল ফাইল আপলোড করতে অক্ষম\ ফাইলের নাম\ টেবিল\ টেবিল নাম\ ডেটাবেস\ ডেটাবেসের নাম\ ভুল বার্তা "
       ],
       "Excel file \"%(excel_filename)s\" uploaded to table \"%(table_name)s\" in database \"%(db_name)s\"": [
-        ""
+        "এক্সেল ফাইল\ এক্সেল ফাইলের নাম\ টেবিলে আপলোড \ টেবিল নাম\ ডেটাবেস\ ডেটাবেসের নাম "
       ],
-      "Columnar to Database configuration": [""],
+      "Columnar to Database configuration": ["ডাটাবেস কনফিগারেশন থেকে কলাম"],
       "Multiple file extensions are not allowed for columnar uploads. Please make sure all files are of the same extension.": [
-        ""
+        "কলামার আপলোডের জন্য একাধিক ফাইল অনুমোদিত নয়৷ নিশ্চিত করুন যে সমস্ত ফাইল একই এক্সটেনশনের"
       ],
       "Database \"%(database_name)s\" schema \"%(schema_name)s\" is not allowed for columnar uploads. Please contact your Superset Admin.": [
-        ""
+        "ডাটাবেস\ ডেটাবেসের নাম\ স্কিমা\(স্কিমা_নাম)\ কলামার আপলোডের জন্য অনুমোদিত নয়। আপনার সুপারসেট অ্যাডমিনের সাথে যোগাযোগ করুন "
       ],
       "Unable to upload Columnar file \"%(filename)s\" to table \"%(table_name)s\" in database \"%(db_name)s\". Error message: %(error_msg)s": [
-        ""
+        "কলামার ফাইল আপলোড করতে অক্ষম৷ \ফাইলের নাম\ টেবিল\ টেবিল নাম\ ডেটাবেস\ ডেটাবেসের নাম \ ভুল বার্তা"
       ],
       "Columnar file \"%(columnar_filename)s\" uploaded to table \"%(table_name)s\" in database \"%(db_name)s\"": [
         ""

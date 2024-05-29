@@ -298,199 +298,199 @@
       "Dataset could not be duplicated.": ["ডেটাসেট নকল করা যায়নি"],
       "Data URI is not allowed.": ["ডেটা URI অনুমোদিত নয়"],
       "The provided table was not found in the provided database": ["প্রদত্ত টেবিলটি প্রদত্ত ডাটাবেসে পাওয়া যায়নি"],
-      "Dataset column not found.": [""],
-      "Dataset column delete failed.": [""],
-      "Changing this dataset is forbidden.": [""],
-      "Dataset metric not found.": [""],
-      "Dataset metric delete failed.": [""],
-      "Form data not found in cache, reverting to chart metadata.": [""],
-      "Form data not found in cache, reverting to dataset metadata.": [""],
-      "[Missing Dataset]": [""],
-      "Saved queries could not be deleted.": [""],
-      "Saved query not found.": [""],
-      "Import saved query failed for an unknown reason.": [""],
-      "Saved query parameters are invalid.": [""],
+      "Dataset column not found.": ["ডেটাসেটের কলাম পাওয়া যায়নি"],
+      "Dataset column delete failed.": ["ডেটাসেটের কলাম মুছে ফেলা ব্যর্থ হয়েছে"],
+      "Changing this dataset is forbidden.": ["এই ডেটাসেট পরিবর্তন নিষিদ্ধ"],
+      "Dataset metric not found.": ["ডেটাসেট মেট্রিক পাওয়া যায়নি"],
+      "Dataset metric delete failed.": ["ডেটাসেট মেট্রিক মুছে ফেলা ব্যর্থ হয়েছে"],
+      "Form data not found in cache, reverting to chart metadata.": ["ফর্ম ডেটা ক্যাশে পাওয়া যায়নি, চার্ট মেটাডেটা ফিরিয়ে যাওয়া হচ্ছে"],
+      "Form data not found in cache, reverting to dataset metadata.": ["ফর্ম ডেটা ক্যাশে পাওয়া যায়নি, ডেটাসেট মেটাডেটা ফিরিয়ে যাওয়া হচ্ছে"],
+      "[Missing Dataset]": ["অনুপস্থিত ডেটাসেট"],
+      "Saved queries could not be deleted.": ["সংরক্ষিত কুয়েরি মুছে ফেলা যায়নি"],
+      "Saved query not found.": ["সংরক্ষিত কুয়েরি পাওয়া যায়নি"],
+      "Import saved query failed for an unknown reason.": ["অজানা কারণে সংরক্ষিত কুয়েরি আমদানি ব্যর্থ হয়েছে"],
+      "Saved query parameters are invalid.": ["সংরক্ষিত কুয়েরির প্যারামিটারগুলি অবৈধ"],
       "Alert query returned more than one row. %(num_rows)s rows returned": [
-        ""
+        "এলার্ট কুয়েরি একের অধিক সারি প্রদান করে। %(num_rows)s সারি ফিরে আসা হয়েছে"
       ],
       "Alert query returned more than one column. %(num_cols)s columns returned": [
-        ""
+        "এলার্ট কুয়েরি একের অধিক কলাম প্রদান করে। %(num_cols)s কলাম ফিরে আসা হয়েছে"
       ],
-      "An error occurred when running alert query": [""],
-      "Invalid tab ids: %s(tab_ids)": [""],
-      "Dashboard does not exist": [""],
-      "Chart does not exist": [""],
-      "Database is required for alerts": [""],
-      "Type is required": [""],
-      "Choose a chart or dashboard not both": [""],
-      "Must choose either a chart or a dashboard": [""],
+      "An error occurred when running alert query": ["এলার্ট কুয়েরি চালানোর সময় একটি ত্রুটি ঘটেছে"],
+      "Invalid tab ids: %s(tab_ids)": ["অবৈধ ট্যাব আইডি: %s(tab_ids)"],
+      "Dashboard does not exist": ["ড্যাশবোর্ড পাওয়া যায়নি"],
+      "Chart does not exist": ["চার্ট পাওয়া যায়নি"],
+      "Database is required for alerts": ["এলার্ট এর জন্য ডাটাবেস প্রয়োজন"],
+      "Type is required": ["ধরন প্রয়োজন"],
+      "Choose a chart or dashboard not both": ["একটি চার্ট বা ড্যাশবোর্ড নির্বাচন করুন, উভয় নয়"],
+      "Must choose either a chart or a dashboard": ["অবশ্যই চার্ট বা ড্যাশবোর্ড একটি নির্বাচন করতে হবে"],
       "Please save your chart first, then try creating a new email report.": [
-        ""
+        "দয়া করে প্রথমে আপনার চার্টটি সংরক্ষণ করুন, তারপরে একটি নতুন ইমেল রিপোর্ট তৈরি করার চেষ্টা করুন"
       ],
       "Please save your dashboard first, then try creating a new email report.": [
-        ""
+        "দয়া করে প্রথমে আপনার ড্যাশবোর্ডটি সংরক্ষণ করুন, তারপরে একটি নতুন ইমেল রিপোর্ট তৈরি করার চেষ্টা করুন"
       ],
-      "Report Schedule parameters are invalid.": [""],
-      "Report Schedule could not be created.": [""],
-      "Report Schedule could not be updated.": [""],
-      "Report Schedule not found.": [""],
-      "Report Schedule delete failed.": [""],
-      "Report Schedule log prune failed.": [""],
-      "Report Schedule execution failed when generating a screenshot.": [""],
-      "Report Schedule execution failed when generating a pdf.": [""],
-      "Report Schedule execution failed when generating a csv.": [""],
-      "Report Schedule execution failed when generating a dataframe.": [""],
-      "Report Schedule execution got an unexpected error.": [""],
-      "Report Schedule is still working, refusing to re-compute.": [""],
-      "Report Schedule reached a working timeout.": [""],
-      "A report named \"%(name)s\" already exists": [""],
-      "An alert named \"%(name)s\" already exists": [""],
-      "Resource already has an attached report.": [""],
-      "Alert query returned more than one row.": [""],
-      "Alert validator config error.": [""],
-      "Alert query returned more than one column.": [""],
-      "Alert query returned a non-number value.": [""],
-      "Alert found an error while executing a query.": [""],
-      "A timeout occurred while executing the query.": [""],
-      "A timeout occurred while taking a screenshot.": [""],
-      "A timeout occurred while generating a csv.": [""],
-      "A timeout occurred while generating a dataframe.": [""],
-      "Alert fired during grace period.": [""],
-      "Alert ended grace period.": [""],
-      "Alert on grace period": [""],
-      "Report Schedule state not found": [""],
-      "Report schedule system error": [""],
-      "Report schedule client error": [""],
-      "Report schedule unexpected error": [""],
-      "Changing this report is forbidden": [""],
-      "An error occurred while pruning logs ": [""],
-      "RLS Rule not found.": [""],
-      "RLS rules could not be deleted.": [""],
-      "The database could not be found": [""],
+      "Report Schedule parameters are invalid.": ["রিপোর্ট শেডিউলের প্যারামিটারগুলি অবৈধ"],
+      "Report Schedule could not be created.": ["রিপোর্ট শেডিউল তৈরি করা যায়নি"],
+      "Report Schedule could not be updated.": ["রিপোর্ট শেডিউল আপডেট করা যায়নি"],
+      "Report Schedule not found.": ["রিপোর্ট শেডিউল পাওয়া যায়নি"],
+      "Report Schedule delete failed.": ["রিপোর্ট শেডিউল মুছে ফেলা ব্যর্থ হয়েছে"],
+      "Report Schedule log prune failed.": ["রিপোর্ট শেডিউলের লগ পরিশেষ করা ব্যর্থ হয়েছে"],
+      "Report Schedule execution failed when generating a screenshot.": ["রিপোর্ট শেডিউল ক্ষেত্র প্রদর্শন করা হয়েছে না যখন একটি স্ক্রিনশট তৈরি হয়"],
+      "Report Schedule execution failed when generating a pdf.": ["রিপোর্ট শেডিউল ক্ষেত্র প্রদর্শন করা হয়েছে না যখন একটি পিডিএফ তৈরি হয়"],
+      "Report Schedule execution failed when generating a csv.": ["রিপোর্ট শেডিউল ক্ষেত্র প্রদর্শন করা হয়েছে না যখন একটি সিএসভি তৈরি হয়"],
+      "Report Schedule execution failed when generating a dataframe.": ["রিপোর্ট শেডিউল ক্ষেত্র প্রদর্শন করা হয়েছে না যখন একটি ডেটা ফ্রেম তৈরি হয়"],
+      "Report Schedule execution got an unexpected error.": ["রিপোর্ট শেডিউল ক্ষেত্র প্রদর্শন অপ্রত্যাশিত ত্রুটি পেয়েছে"],
+      "Report Schedule is still working, refusing to re-compute.": ["রিপোর্ট শেডিউল এখনো কার্যকর রয়েছে, পুনরায় গণনা করার অস্বীকার করা হচ্ছে"],
+      "Report Schedule reached a working timeout.": ["রিপোর্ট শেডিউল একটি কার্যকর টাইমআউট পৌঁছেছে"],
+      "A report named \"%(name)s\" already exists": ["একটি রিপোর্টের নাম "% (name) s" ইতিমধ্যেই বিদ্যমান"],
+      "An alert named \"%(name)s\" already exists": ["একটি সতর্কতার নাম "% (name) s" ইতিমধ্যেই বিদ্যমান"],
+      "Resource already has an attached report.": ["সম্পদটি ইতিমধ্যেই সংযুক্ত রিপোর্ট আছে"],
+      "Alert query returned more than one row.": ["সতর্কতা কুয়েরি একের অধিক সারি ফিরে আসে"],
+      "Alert validator config error.": ["সতর্কতা ভেরিফায়ার কনফিগারেশন ত্রুটি"],
+      "Alert query returned more than one column.": ["সতর্কতা কুয়েরি একের অধিক কলাম ফিরে আসে"],
+      "Alert query returned a non-number value.": ["সতর্কতা কুয়েরি একটি গণিতক মান ফিরে আসে না"],
+      "Alert found an error while executing a query.": ["একটি ত্রুটি পাওয়া হয়েছে যখন সতর্কতা একটি কুয়েরি চালানো হয়েছিল"],
+      "A timeout occurred while executing the query.": ["কুয়েরি চালানোর সময় টাইমআউট ঘটেছিল"],
+      "A timeout occurred while taking a screenshot.": ["স্ক্রিনশট তুলতে সময় টাইমআউট ঘটেছিল"],
+      "A timeout occurred while generating a csv.": ["সিএসভি তৈরি করতে সময় টাইমআউট ঘটেছিল"],
+      "A timeout occurred while generating a dataframe.": ["ডেটা ফ্রেম তৈরি করতে সময় টাইমআউট ঘটেছিল"],
+      "Alert fired during grace period.": ["সতর্কতা কালের মধ্যে ফায়ার হয়েছিল"],
+      "Alert ended grace period.": ["সতর্কতা কালের অবধি শেষ হয়েছিল"],
+      "Alert on grace period": ["সতর্কতা কালের অবধিতে রয়েছে"],
+      "Report Schedule state not found": ["রিপোর্ট শেডিউলের অবস্থা পাওয়া যায়নি"],
+      "Report schedule system error": ["রিপোর্ট শেডিউল সিস্টেম ত্রুটি"],
+      "Report schedule client error": ["রিপোর্ট শেডিউল ক্লায়েন্ট ত্রুটি"],
+      "Report schedule unexpected error": ["রিপোর্ট শেডিউল অপ্রত্যাশিত ত্রুটি"],
+      "Changing this report is forbidden": ["এই রিপোর্ট পরিবর্তন নিষিদ্ধ"],
+      "An error occurred while pruning logs ": ["লগ পরিশেষ করা সময় একটি ত্রুটি ঘটেছিল"],
+      "RLS Rule not found.": ["RLS নিয়ম পাওয়া যায়নি"],
+      "RLS rules could not be deleted.": ["RLS নিয়ম মুছে ফেলা যায়নি"],
+      "The database could not be found": ["ডেটাবেস পাওয়া যায়নি"],
       "The query estimation was killed after %(sqllab_timeout)s seconds. It might be too complex, or the database might be under heavy load.": [
-        ""
+        "%(sqllab_timeout)s সেকেন্ড পরে কুয়েরির অনুমানটি বন্ধ করা হয়েছিল। এটা খুব জটিল হতে পারে, বা ডেটাবেস ভারী লোডে হতে পারে"
       ],
       "The database referenced in this query was not found. Please contact an administrator for further assistance or try again.": [
-        ""
+        "এই কুয়েরিতে উল্লিখিত ডেটাবেসটি পাওয়া যায়নি। অধিক সাহায্যের জন্য দয়া করে একজন প্রশাসকের সাথে যোগাযোগ করুন বা আবার চেষ্টা করুন"
       ],
       "The query associated with these results could not be found. You need to re-run the original query.": [
-        ""
+        "এই ফলাফলের সাথে সম্পর্কিত কুয়েরিটি পাওয়া যায়নি। আপনাকে মূল কুয়েরিটি আবার চালাতে হবে"
       ],
-      "Cannot access the query": [""],
+      "Cannot access the query": ["কুয়েরিতে অ্যাক্সেস করা যায় না"],
       "Data could not be retrieved from the results backend. You need to re-run the original query.": [
-        ""
+        "ফলাফলের ব্যাকএন্ড থেকে ডেটা পুনরুদ্ধার করা যায়নি। আপনাকে মূল কুয়েরিটি আবার চালাতে হবে"
       ],
       "Data could not be deserialized from the results backend. The storage format might have changed, rendering the old data stake. You need to re-run the original query.": [
-        ""
+        "ফলাফলের ব্যাকএন্ড থেকে ডেটা ডিসিরিয়ালাইজ করা যায়নি। সংরক্ষণের ফরম্যাট পরিবর্তিত হতে পারে, পুরাতন ডেটাটি দুর্বল হয়ে যাচ্ছে। আপনাকে মূল কুয়েরিটি আবার চালাতে হবে"
       ],
-      "Tag parameters are invalid.": [""],
-      "Tag could not be created.": [""],
-      "Tag could not be updated.": [""],
-      "Tag could not be deleted.": [""],
-      "Tagged Object could not be deleted.": [""],
-      "An error occurred while creating the value.": [""],
-      "An error occurred while accessing the value.": [""],
-      "An error occurred while deleting the value.": [""],
-      "An error occurred while updating the value.": [""],
-      "You don't have permission to modify the value.": [""],
-      "Resource was not found.": [""],
-      "Invalid result type: %(result_type)s": [""],
-      "Columns missing in dataset: %(invalid_columns)s": [""],
-      "Time Grain must be specified when using Time Shift.": [""],
-      "A time column must be specified when using a Time Comparison.": [""],
-      "The chart does not exist": [""],
-      "The chart datasource does not exist": [""],
-      "The chart query context does not exist": [""],
+      "Tag parameters are invalid.": ["ট্যাগ প্যারামিটারগুলি অবৈধ"],
+      "Tag could not be created.": ["ট্যাগ তৈরি করা যায়নি"],
+      "Tag could not be updated.": ["ট্যাগ আপডেট করা যায়নি"],
+      "Tag could not be deleted.": ["ট্যাগ মুছে ফেলা যায়নি"],
+      "Tagged Object could not be deleted.": ["ট্যাগযুক্ত অবজেক্টটি মুছে ফেলা যায়নি"],
+      "An error occurred while creating the value.": ["মান তৈরি করতে একটি ত্রুটি ঘটেছে"],
+      "An error occurred while accessing the value.": ["মানে অ্যাক্সেস করতে একটি ত্রুটি ঘটেছে"],
+      "An error occurred while deleting the value.": ["মান মুছে ফেলতে একটি ত্রুটি ঘটেছে"],
+      "An error occurred while updating the value.": ["মান আপডেট করতে একটি ত্রুটি ঘটেছে"],
+      "You don't have permission to modify the value.": ["আপনার মান পরিবর্তন করার অনুমতি নেই"],
+      "Resource was not found.": ["সম্পদ পাওয়া যায়নি"],
+      "Invalid result type: %(result_type)s": ["অবৈধ ফলাফলের ধরণ: %(result_type)s"],
+      "Columns missing in dataset: %(invalid_columns)s": ["ডেটাসেটে কলাম অনুপস্থিত: %(invalid_columns)s"],
+      "Time Grain must be specified when using Time Shift.": ["সময় স্থানান্তর ব্যবহার করার সময় সময় ধারণ নির্দিষ্ট করা আবশ্যক"],
+      "A time column must be specified when using a Time Comparison.": ["সময় তুলনা করার সময় সময় কলাম নির্দিষ্ট করা আবশ্যক"],
+      "The chart does not exist": ["চার্টটি অস্তিত্বে নেই"],
+      "The chart datasource does not exist": ["চার্টের ডেটাসোর্স অস্তিত্বে নেই"],
+      "The chart query context does not exist": ["চার্টের কুয়েরি পরিবেশ অস্তিত্বে নেই"],
       "Duplicate column/metric labels: %(labels)s. Please make sure all columns and metrics have a unique label.": [
-        ""
+        "ডুপ্লিকেট কলাম/মেট্রিক লেবেল: %(labels)s। দয়া করে নিশ্চিত করুন সমস্ত কলাম এবং মেট্রিকগুলির একটি অদ্বিতীয় লেবেল রয়েছে"
       ],
       "The following entries in `series_columns` are missing in `columns`: %(columns)s. ": [
-        ""
+        "সিরিজ_কলাম-এ অনুপস্থিত অনুসন্ধান করুন কলাম-এ: %(columns)s"
       ],
-      "`operation` property of post processing object undefined": [""],
-      "Unsupported post processing operation: %(operation)s": [""],
-      "[asc]": [""],
-      "[desc]": [""],
-      "Error in jinja expression in fetch values predicate: %(msg)s": [""],
-      "Virtual dataset query must be read-only": [""],
-      "Error in jinja expression in RLS filters: %(msg)s": [""],
-      "Metric '%(metric)s' does not exist": [""],
-      "Db engine did not return all queried columns": [""],
-      "Virtual dataset query cannot be empty": [""],
-      "Only `SELECT` statements are allowed": [""],
-      "Only single queries supported": [""],
-      "Columns": [""],
-      "Show Column": [""],
-      "Add Column": [""],
-      "Edit Column": [""],
+      "`operation` property of post processing object undefined": ["পোস্ট প্রসেসিং অবজেক্টের অপারেশন বৈশিষ্ট্য অনির্ধারিত"],
+      "Unsupported post processing operation: %(operation)s": ["অসমর্থিত পোস্ট প্রসেসিং অপারেশন: %(operation)s"],
+      "[asc]": ["asc"],
+      "[desc]": ["desc"],
+      "Error in jinja expression in fetch values predicate: %(msg)s": ["এক্সপ্রেশনে ত্রুটি  %(msg)s"],
+      "Virtual dataset query must be read-only": ["ভার্চুয়াল ডেটাসেট কুয়েরি শুধুমাত্র পড়া যাবে"],
+      "Error in jinja expression in RLS filters: %(msg)s": ["RLS ফিল্টারে জিঞ্জা এক্সপ্রেশনে ত্রুটি: %(msg)s"],
+      "Metric '%(metric)s' does not exist": ["RLS ফিল্টারে জিঞ্জা এক্সপ্রেশনে ত্রুটি: %(msg)s"],
+      "Db engine did not return all queried columns": ["ডেটাবেস ইঞ্জিন সমস্ত অনুসন্ধান করা কলাম ফিরিয়ে আসেনি"],
+      "Virtual dataset query cannot be empty": ["ভার্চুয়াল ডেটাসেট কুয়েরি ফাঁকা থাকতে পারে না"],
+      "Only `SELECT` statements are allowed": ["শুধুমাত্র SELECT বিবৃতি অনুমোদিত"],
+      "Only single queries supported": ["শুধুমাত্র একক অনুসন্ধান সমর্থিত"],
+      "Columns": ["কলাম"],
+      "Show Column": ["কলাম দেখাও"],
+      "Add Column": ["কলাম যোগ করুন"],
+      "Edit Column": ["কলাম সম্পাদনা করুন"],
       "Whether to make this column available as a [Time Granularity] option, column has to be DATETIME or DATETIME-like": [
-        ""
+        "এই কলামটি কীভাবে [সময় সূক্ষ্মতা] বিকল্প হিসাবে উপলব্ধ করতে হবে, কলামটি অবশ্যই DATETIME অথবা DATETIME-এর মতো হতে হবে"
       ],
       "Whether this column is exposed in the `Filters` section of the explore view.": [
-        ""
+        "এই কলামটি অনুসন্ধান দেখার ফিল্টার বিভাগে উপস্থাপিত করা হয়েছে কিনা"
       ],
       "The data type that was inferred by the database. It may be necessary to input a type manually for expression-defined columns in some cases. In most case users should not need to alter this.": [
-        ""
+        "ডেটাবেস দ্বারা সনাক্ত করা ডেটা প্রকার। অবশ্যই কিছু মামলায় অভিব্যক্তি-নির্ধারিত কলামগুলির জন্য ম্যানুয়ালি একটি টাইপ ইনপুট করা প্রয়োজন হতে পারে। বেশিরভাগ ক্ষেত্রে ব্যবহারকারীদের এটি পরিবর্তন করার প্রয়োজন হবে না"
       ],
-      "Column": [""],
-      "Verbose Name": [""],
-      "Description": [""],
-      "Groupable": [""],
-      "Filterable": [""],
-      "Table": [""],
-      "Expression": [""],
-      "Is temporal": [""],
-      "Datetime Format": [""],
-      "Type": [""],
-      "Business Data Type": [""],
-      "Invalid date/timestamp format": [""],
-      "Metrics": [""],
-      "Show Metric": [""],
-      "Add Metric": [""],
-      "Edit Metric": [""],
-      "Metric": [""],
-      "SQL Expression": [""],
-      "D3 Format": [""],
-      "Extra": [""],
-      "Warning Message": [""],
-      "Tables": [""],
-      "Show Table": [""],
-      "Import a table definition": [""],
-      "Edit Table": [""],
+      "Column": ["কলাম"],
+      "Verbose Name": ["সবজানানা নাম"],
+      "Description": ["বর্ণনা"],
+      "Groupable": ["গ্রুপ করতে যোগ্য"],
+      "Filterable": ["ফিল্টার করা যায়"],
+      "Table": ["টেবিল"],
+      "Expression": ["অভিব্যক্তি"],
+      "Is temporal": ["সাময়িক"],
+      "Datetime Format": ["তারিখ/সময় বিন্যাস"],
+      "Type": ["প্রকার"],
+      "Business Data Type": ["ব্যবসায়িক ডেটা প্রকার"],
+      "Invalid date/timestamp format": ["অবৈধ তারিখ/সময়মুলেখন বিন্যাস"],
+      "Metrics": ["মেট্রিক"],
+      "Show Metric": ["মেট্রিক দেখাও"],
+      "Add Metric": ["মেট্রিক যোগ করুন"],
+      "Edit Metric": ["মেট্রিক সম্পাদনা করুন"],
+      "Metric": ["মেট্রিক"],
+      "SQL Expression": ["SQL অভিব্যক্তি"],
+      "D3 Format": ["D3 বিন্যাস"],
+      "Extra": ["অতিরিক্ত"],
+      "Warning Message": ["সতর্কতা বার্তা"],
+      "Tables": ["টেবিল"],
+      "Show Table": ["টেবিল দেখাও"],
+      "Import a table definition": ["টেবিলের সংজ্ঞা আমদানি করুন"],
+      "Edit Table": ["টেবিল সম্পাদনা করুন"],
       "The list of charts associated with this table. By altering this datasource, you may change how these associated charts behave. Also note that charts need to point to a datasource, so this form will fail at saving if removing charts from a datasource. If you want to change the datasource for a chart, overwrite the chart from the 'explore view'": [
-        ""
+        "এই টেবিলের সাথে সংযুক্ত চার্টের তালিকা। এই ডেটাসোর্স পরিবর্তন করে, আপনি এই সংযুক্ত চার্টগুলির আচরণ কেমন করবে তা পরিবর্তন করতে পারেন। আবার মনে রাখবেন যে, চার্টগুলির কোনো ডেটাসোর্সে সুইচ করা দরকার, তাই যদি একটি ডেটাসোর্স থেকে চার্টগুলি সরানো হয় তবে এই ফর্মটি সংরক্ষণ করতে ব্যর্থ হবে। আপনি যদি চার্টের জন্য ডেটাসোর্স পরিবর্তন করতে চান, তবে 'অন্বেষণ দেখুন' থেকে চার্ট ওভাররাইট করুন"
       ],
-      "Timezone offset (in hours) for this datasource": [""],
-      "Name of the table that exists in the source database": [""],
+      "Timezone offset (in hours) for this datasource": ["এই ডেটাসোর্সের জন্য সময় অঞ্চলের অফসেট (ঘন্টায়)"],
+      "Name of the table that exists in the source database": ["উৎস ডেটাবেসে যে টেবিলের নাম আছে"],
       "Schema, as used only in some databases like Postgres, Redshift and DB2": [
-        ""
+        "স্কিমা, যেমন পোস্টগ্রেস, রেডশিফ্ট এবং ডিবি ২ এই ধরনের কিছু ডেটাবেসে শুধুমাত্র ব্যবহৃত"
       ],
       "This fields acts a Superset view, meaning that Superset will run a query against this string as a subquery.": [
-        ""
+        "এই ক্ষেত্রগুলি সুপারসেট দেখা, অর্থাৎ সুপারসেট এই স্ট্রিং বিপরীতে একটি সাবকুয়েরির মধ্যে একটি ক্যুয়ারি চালাবে"
       ],
       "Predicate applied when fetching distinct value to populate the filter control component. Supports jinja template syntax. Applies only when `Enable Filter Select` is on.": [
-        ""
+        "বিভিন্ন মান অনুসন্ধান করার সময় প্রেডিকেট প্রয়োগ করা হলো যেটা ফিল্টার নিয়ন্ত্রণ উপাদান পূরণ করতে ব্যবহৃত হবে। জিঞ্জা টেমপ্লেট সিনট্যাক্স সমর্থন করে। এটি শুধুমাত্র 'ফিল্টার নির্বাচন সক্ষম করুন' চালু থাকলে প্রয়োগ করা হয়"
       ],
       "Redirects to this endpoint when clicking on the table from the table list": [
-        ""
+        "টেবিল তালিকা থেকে টেবিলে ক্লিক করলে এই এন্ডপয়েন্টে পুনর্নির্দেশ করুন"
       ],
       "Whether to populate the filter's dropdown in the explore view's filter section with a list of distinct values fetched from the backend on the fly": [
-        ""
+        "এক্সপ্লোর ভিউয়ের ফিল্টার বিভাগে ফিল্টারের ড্রপডাউনটি পিছু থেকে ব্যক্তিগত মানের একটি তালিকা দিয়ে পূরণ করতে হবে"
       ],
       "Whether the table was generated by the 'Visualize' flow in SQL Lab": [
-        ""
+        "কোণসংলাপ ল্যাবে 'ভিজুয়ালাইজ' ফ্লো দ্বারা টেবিলটি তৈরি হয়েছিল কি না"
       ],
       "A set of parameters that become available in the query using Jinja templating syntax": [
-        ""
+        "একটি সেট প্যারামিটার যা জিঞ্জা টেমপ্লেটিং সিনট্যাক্স ব্যবহার করে প্রশ্নে উপলব্ধ হয়"
       ],
       "Duration (in seconds) of the caching timeout for this table. A timeout of 0 indicates that the cache never expires. Note this defaults to the database timeout if undefined.": [
-        ""
+        "এই টেবিলের জন্য ক্যাচিং টাইমআউটের মেয়াদ (সেকেন্ডে)। 0 এর সময় সীমা প্রদান করে যে ক্যাশ কখনই মেয়াদ শেষ হবে না বোঝায়। যদি অনির্ধারিত থাকে, তবে এটি ডেটাবেসের টাইমআউটের ডিফল্ট"
       ],
       "Allow column names to be changed to case insensitive format, if supported (e.g. Oracle, Snowflake).": [
-        ""
+        "কলামের নামগুলির কেস ইনসেনসিটিভ ফরম্যাটে পরিবর্তন করা অনুমোদিত করুন, যদি সমর্থিত হয় (উদাহরণস্বরূপ, অরাকেল, স্নোফ্লেক)"
       ],
       "Datasets can have a main temporal column (main_dttm_col), but can also have secondary time columns. When this attribute is true, whenever the secondary columns are filtered, the same filter is applied to the main datetime column.": [
-        ""
+        "ডেটাসেটের একটি মৌলিক সময়গত কলাম থাকতে পারে (মূল_dttm_col), কিন্তু দ্বিতীয় সময় কলাম ও থাকতে পারে। এই গুণগুলি সত্য হলে, যখন দ্বিতীয় কলামগুলি ফিল্টার করা হয়, তখন মূল ডেটটাইম কলামে একই ফিল্টার প্রয়োগ করা হয়"
       ],
       "Associated Charts": ["সংশ্লিষ্ট চার্ট"],
       "Changed By": ["পরিবর্তিত"],

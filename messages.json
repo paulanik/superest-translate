@@ -511,7 +511,7 @@
       "The table was created. As part of this two-phase configuration process, you should now click the edit button by the new table to configure it.": [
         "টেবিলটি তৈরি করা হয়েছে। এই দুটি ধাপের কনফিগারেশন প্রক্রিয়ার একটি অংশ হিসাবে, আপনাকে এখন নতুন টেবিলের সাথে কনফিগার করার জন্য সম্পাদনা বোতামে ক্লিক করতে হবে।"
       ],
-      "Deleted %(num)d css template": [" %(num)d টি সিএসএস টেমপ্লেট মুছে ফেলা হয়েছে ", "Deleted %(num)d css templates"],
+      "Deleted %(num)d css template": [" %(num)d টি সিএসএস টেমপ্লেট মুছে ফেলা হয়েছে "],
       "Dataset schema is invalid, caused by: %(error)s": ["ডেটাসেট স্কিমা অবৈধ, কারণ: %(error)s"],
       "Deleted %(num)d dashboard": ["%(num)d ড্যাশবোর্ড মুছে ফেলা হয়েছে", "Deleted %(num)d dashboards"],
       "Title or Slug": ["শিরোনাম বা স্লাগ"],
@@ -527,673 +527,673 @@
         "অতিরিক্ত ফিল্ডে মেটাডাটা_পারামস সঠিকভাবে কনফিগার করা হয়নি। কী %(key)s অবৈধ।"
       ],
       "An engine must be specified when passing individual parameters to a database.": [
-        ""
+        "একটি ইঞ্জিন নির্দিষ্ট করা আবশ্যক যখন ডাটাবেসে পৃথক প্যারামিটার পাস করা হয়।"
       ],
       "Engine spec \"InvalidEngine\" does not support being configured via individual parameters.": [
-        ""
+        "ইঞ্জিন স্পেক \"অবৈধইঞ্জিন\" পৃথক প্যারামিটার মাধ্যমে কনফিগার করা সমর্থ নয়।"
       ],
-      "Deleted %(num)d dataset": ["", "Deleted %(num)d datasets"],
-      "Null or Empty": [""],
+      "Deleted %(num)d dataset": ["%(num)d ডেটাসেট মুছে ফেলা হয়েছে", "Deleted %(num)d datasets"],
+      "Null or Empty": ["খালি বা ফাঁকা"],
       "Please check your query for syntax errors at or near \"%(syntax_error)s\". Then, try running your query again.": [
-        ""
+        "দয়া করে সিনট্যাক্স ত্রুটির জন্য আপনার কুয়েরি পরীক্ষা করুন বা কাছাকাছি সিনট্যাক্স ত্রুটি আছে কিনা।  \"%(syntax_error)s\" তারপরে, আবার আপনার কুয়েরি চালানোর চেষ্টা করুন।"
       ],
-      "Second": [""],
-      "5 second": [""],
-      "30 second": [""],
-      "Minute": [""],
-      "5 minute": [""],
-      "10 minute": [""],
-      "15 minute": [""],
-      "30 minute": [""],
-      "Hour": [""],
-      "6 hour": [""],
-      "Day": [""],
-      "Week": [""],
-      "Month": [""],
-      "Quarter": [""],
-      "Year": [""],
-      "Week starting Sunday": [""],
-      "Week starting Monday": [""],
-      "Week ending Saturday": [""],
-      "Week ending Sunday": [""],
-      "Username": [""],
-      "Password": [""],
-      "Hostname or IP address": [""],
-      "Database port": [""],
-      "Database name": [""],
-      "Additional parameters": [""],
-      "Use an encrypted connection to the database": [""],
-      "Use an ssh tunnel connection to the database": [""],
+      "Second": ["দ্বিতীয়"],
+      "5 second": ["পাঁচ সেকেন্ড"],
+      "30 second": ["ত্রিশ সেকেন্ড"],
+      "Minute": ["মিনিট"],
+      "5 minute": ["পাঁচ মিনিট "],
+      "10 minute": ["দশ মিনিট"],
+      "15 minute": ["পনের মিনিট"],
+      "30 minute": ["ত্রিশ মিনিট"],
+      "Hour": ["ঘণ্টা"],
+      "6 hour": ["ছয় ঘণ্টা"],
+      "Day": ["দিন"],
+      "Week": ["সপ্তা"],
+      "Month": ["মাস"],
+      "Quarter": ["একচতুর্থাংশ"],
+      "Year": ["বছর"],
+      "Week starting Sunday": ["রবিবার থেকে সপ্তাহ শুরু"],
+      "Week starting Monday": ["সোমবার থেকে সপ্তাহ শুরু"],
+      "Week ending Saturday": ["শনিবার শেষ সপ্তাহ"],
+      "Week ending Sunday": ["রবিবার শেষ সপ্তাহ"],
+      "Username": ["ব্যবহারকারীর নাম"],
+      "Password": ["পাসওয়ার্ড"],
+      "Hostname or IP address": ["হোস্টনেম বা আইপি ঠিকানা"],
+      "Database port": ["ডাটাবেস পোর্ট"],
+      "Database name": ["ডাটাবেস নাম"],
+      "Additional parameters": ["অতিরিক্ত পরামিতি"],
+      "Use an encrypted connection to the database": ["ডাটাবেসে একটি এনক্রিপ্টেড সংযোগ ব্যবহার করুন"],
+      "Use an ssh tunnel connection to the database": ["ডাটাবেসে একটি এসএসএইচ টানেল সংযোগ ব্যবহার করুন"],
       "Unable to connect. Verify that the following roles are set on the service account: \"BigQuery Data Viewer\", \"BigQuery Metadata Viewer\", \"BigQuery Job User\" and the following permissions are set \"bigquery.readsessions.create\", \"bigquery.readsessions.getData\"": [
-        ""
+        "সংযোগ অসম্ভব। নিম্নলিখিত ভূমিকা যাচাই করুন নিম্নলিখিত ভূমিকা যাচাই করুন সেবা অ্যাকাউন্টে সেট করা হয়েছে: \"BigQuery Data Viewer\", \"BigQuery Metadata Viewer\", \"BigQuery Job User\" এবং নিম্নলিখিত অনুমতিগুলি সেট করা হয়েছে: \"BigQuery Data Viewer\", \"BigQuery Metadata Viewer\", \"BigQuery Job User\" and the following permissions are set \"bigquery.readsessions.create\", \"bigquery.readsessions.getData\""
       ],
       "The table \"%(table)s\" does not exist. A valid table must be used to run this query.": [
-        ""
+        "\"%(table)s\" টেবিলটি অস্তিত্ব নেই। এই কুয়েরি চালানোর জন্য একটি বৈধ টেবিল ব্যবহার করতে হবে।"
       ],
       "We can't seem to resolve column \"%(column)s\" at line %(location)s.": [
-        ""
+        "আমরা কলামটি \"% (column)s\" সমাধান করতে পারছি না লাইন %(location)s তে।"
       ],
       "The schema \"%(schema)s\" does not exist. A valid schema must be used to run this query.": [
-        ""
+        "\"%(schema)s\" স্কিমা অস্তিত্ব নেই। এই কুয়েরি চালানোর জন্য একটি বৈধ স্কিমা ব্যবহার করতে হবে।"
       ],
       "Either the username \"%(username)s\" or the password is incorrect.": [
-        ""
+        "ব্যবহারকারীর নাম \"% (username)s\" বা পাসওয়ার্ড ভুল হয়েছে।"
       ],
-      "Unknown Doris server host \"%(hostname)s\".": [""],
-      "The host \"%(hostname)s\" might be down and can't be reached.": [""],
-      "Unable to connect to database \"%(database)s\".": [""],
+      "Unknown Doris server host \"%(hostname)s\".": ["অজানা ডরিস সার্ভার হোস্ট \"% (hostname)s\"।"],
+      "The host \"%(hostname)s\" might be down and can't be reached.": ["হোস্ট \"% (hostname)s\" নিম্ন হতে পারে এবং পৌঁছানো যায় না।"],
+      "Unable to connect to database \"%(database)s\".": ["ডাটাবেস \"% (database)s\" সংযোগ করা সম্ভব নয়।"],
       "Please check your query for syntax errors near \"%(server_error)s\". Then, try running your query again.": [
-        ""
+        "দয়া করে আপনার কুয়েরি পরীক্ষা করুন সিনট্যাক্স ত্রুটির জন্য \"% (server_error)s\" কাছাকাছি। তারপরে, আবার আপনার কুয়েরি চালানোর চেষ্টা করুন।"
       ],
-      "We can't seem to resolve the column \"%(column_name)s\"": [""],
+      "We can't seem to resolve the column \"%(column_name)s\"": ["আমরা কলামটি \"%(column_name)s\" সমাধান করতে পারছি না"],
       "Either the username \"%(username)s\", password, or database name \"%(database)s\" is incorrect.": [
-        ""
+        "ব্যবহারকারীর নাম \"%(username)s\", পাসওয়ার্ড, বা ডাটাবেস নাম \"%(database)s\" ভুল হয়েছে।"
       ],
-      "The hostname \"%(hostname)s\" cannot be resolved.": [""],
+      "The hostname \"%(hostname)s\" cannot be resolved.": ["হোস্টনেম \"%(hostname)s\" সমাধান করা যায় না।"],
       "Port %(port)s on hostname \"%(hostname)s\" refused the connection.": [
-        ""
+        "হোস্টনেম \"%(hostname)s\" এর উপর পোর্ট %(port)s সংযোগ প্রত্যাখ্যান করেছে।"
       ],
       "The host \"%(hostname)s\" might be down, and can't be reached on port %(port)s.": [
-        ""
+        "হোস্ট \"%(hostname)s\" নিম্ন হতে পারে, এবং পোর্ট %(port)s এ পৌঁছানো যায় না।"
       ],
-      "Unknown MySQL server host \"%(hostname)s\".": [""],
-      "The username \"%(username)s\" does not exist.": [""],
+      "Unknown MySQL server host \"%(hostname)s\".": ["অজানা মাইএসকিউএল সার্ভার হোস্ট \"% (hostname)s\"।"],
+      "The username \"%(username)s\" does not exist.": ["ব্যবহারকারীর নাম \"% (username)s\" অস্তিত্ব নেই।"],
       "The user/password combination is not valid (Incorrect password for user).": [
-        ""
+        "ব্যবহারকারী/পাসওয়ার্ড সংমিশ্রণ বৈধ নয় (ব্যবহারকারীর জন্য পাসওয়ার্ড ভুল)।"
       ],
-      "Could not connect to database: \"%(database)s\"": [""],
-      "Could not resolve hostname: \"%(host)s\".": [""],
-      "Port out of range 0-65535": [""],
+      "Could not connect to database: \"%(database)s\"": ["ডাটাবেসে সংযোগ করা যায়নি: \"% (database)s\""],
+      "Could not resolve hostname: \"%(host)s\".": ["হোস্টনেম সমাধান করা যায়নি: \"% (host)s\"।"],
+      "Port out of range 0-65535": ["পোর্ট পরিসীমার বাইরে 0-65535"],
       "Invalid Connection String: Expecting String of the form 'ocient://user:pass@host:port/database'.": [
-        ""
+        "অবৈধ সংযোগ স্ট্রিং: 'ocient://user:pass@host:port/database'ফর্মের স্ট্রিং আশা করা হচ্ছে।"
       ],
       "Syntax Error: %(qualifier)s input \"%(input)s\" expecting \"%(expected)s": [
-        ""
+        "সিনট্যাক্স ত্রুটি: %(qualifier)s ইনপুট \"% (input)s\" আশা \"% (expected)s\"।"
       ],
-      "Table or View \"%(table)s\" does not exist.": [""],
-      "Invalid reference to column: \"%(column)s\"": [""],
-      "The password provided for username \"%(username)s\" is incorrect.": [""],
-      "Please re-enter the password.": [""],
+      "Table or View \"%(table)s\" does not exist.": ["টেবিল বা ভিউ \"% (table)s\" অস্তিত্ব নেই।"],
+      "Invalid reference to column: \"%(column)s\"": ["কলামে অবৈধ রেফারেন্স: \"% (column)s\"।"],
+      "The password provided for username \"%(username)s\" is incorrect.": ["ব্যবহারকারীর নাম \"% (username)s\" এর জন্য প্রদত্ত পাসওয়ার্ডটি ভুল।"],
+      "Please re-enter the password.": ["দয়া করে পাসওয়ার্ডটি পুনরায় প্রবেশ করুন।"],
       "We can't seem to resolve the column \"%(column_name)s\" at line %(location)s.": [
-        ""
+        "আমরা কলামটি \"% (column_name)s\" লাইন %(location)s এ সমাধান করতে পারছি না।"
       ],
-      "Users are not allowed to set a search path for security reasons.": [""],
+      "Users are not allowed to set a search path for security reasons.": ["নিরাপত্তার কারণে ব্যবহারকারীদের সার্চ পাথ সেট করার অনুমতি নেই।"],
       "The table \"%(table_name)s\" does not exist. A valid table must be used to run this query.": [
-        ""
+        "টেবিল \"% (table_name)s\" অস্তিত্ব নেই। এই কুয়েরি চালানোর জন্য একটি বৈধ টেবিল ব্যবহার করতে হবে।"
       ],
       "The schema \"%(schema_name)s\" does not exist. A valid schema must be used to run this query.": [
-        ""
+        "স্কিমা \"% (schema_name)s\" অস্তিত্ব নেই। এই কুয়েরি চালানোর জন্য একটি বৈধ স্কিমা ব্যবহার করতে হবে।"
       ],
-      "Unable to connect to catalog named \"%(catalog_name)s\".": [""],
-      "Unknown Presto Error": [""],
+      "Unable to connect to catalog named \"%(catalog_name)s\".": ["\"%(catalog_name)s\" নামক ক্যাটালগে সংযোগ করা সম্ভব নয়।"],
+      "Unknown Presto Error": ["অজানা প্রবঁচনাময় ত্রুটি।"],
       "We were unable to connect to your database named \"%(database)s\". Please verify your database name and try again.": [
-        ""
+        "আমরা \"% (database)s\" নামক আপনার ডাটাবেসে সংযোগ করতে পারিনি। দয়া করে আপনার ডাটাবেসের নাম যাচাই করুন এবং পুনরায় চেষ্টা করুন।"
       ],
-      "%(object)s does not exist in this database.": [""],
-      "Samples for datasource could not be retrieved.": [""],
-      "Changing this datasource is forbidden": [""],
-      "Home": [""],
-      "Database Connections": [""],
-      "Data": [""],
-      "Dashboards": [""],
-      "Charts": [""],
-      "Datasets": [""],
-      "Plugins": [""],
-      "Manage": [""],
-      "CSS Templates": [""],
-      "SQL Lab": [""],
-      "SQL": [""],
-      "Saved Queries": [""],
-      "Query History": [""],
-      "Tags": [""],
-      "Action Log": [""],
-      "Security": [""],
-      "Alerts & Reports": [""],
-      "Annotation Layers": [""],
-      "Row Level Security": [""],
-      "An error occurred while parsing the key.": [""],
-      "An error occurred while upserting the value.": [""],
-      "Unable to encode value": [""],
-      "Unable to decode value": [""],
-      "Invalid permalink key": [""],
-      "Error while rendering virtual dataset query: %(msg)s": [""],
-      "Virtual dataset query cannot consist of multiple statements": [""],
+      "%(object)s does not exist in this database.": ["এই ডাটাবেসে %(object)s অস্তিত্ব নেই।"],
+      "Samples for datasource could not be retrieved.": ["ডেটাসোর্সের নমুনাগুলি পুনরুদ্ধার করা যায়নি।"],
+      "Changing this datasource is forbidden": ["এই ডেটাসোর্স পরিবর্তন নিষিদ্ধ।"],
+      "Home": ["বাড়ি"],
+      "Database Connections": ["ডাটাবেস সংযোগ"],
+      "Data": ["ডেটা"],
+      "Dashboards": ["ড্যাশবোর্ড"],
+      "Charts": ["চার্ট"],
+      "Datasets": ["ডেটাসেট"],
+      "Plugins": ["প্লাগইন"],
+      "Manage": ["পরিচালনা"],
+      "CSS Templates": ["সিএসএস টেমপ্লেট"],
+      "SQL Lab": ["এসকিউএল ল্যাব"],
+      "SQL": ["এসকিউএল"],
+      "Saved Queries": ["সংরক্ষিত কুয়েরি"],
+      "Query History": ["কুয়েরি ইতিহাস"],
+      "Tags": ["ট্যাগ"],
+      "Action Log": ["অ্যাকশন লগ"],
+      "Security": ["নিরাপত্তা"],
+      "Alerts & Reports": ["সতর্কতা ও প্রতিবেদন"],
+      "Annotation Layers": ["অ্যানোটেশন স্তর"],
+      "Row Level Security": ["সারি স্তরের নিরাপত্তা"],
+      "An error occurred while parsing the key.": ["কী পার্সিং করার সময় একটি ত্রুটি ঘটেছে।"],
+      "An error occurred while upserting the value.": ["মান আপসার্ট করার সময় একটি ত্রুটি ঘটেছে।"],
+      "Unable to encode value": ["মান এনকোড করতে অক্ষম।"],
+      "Unable to decode value": ["মান ডিকোড করতে অক্ষম।"],
+      "Invalid permalink key": ["অবৈধ পারমালিঙ্ক কী।"],
+      "Error while rendering virtual dataset query: %(msg)s": ["ভার্চুয়াল ডেটাসেট কুয়েরি রেন্ডার করার সময় ত্রুটি: %(msg)s"],
+      "Virtual dataset query cannot consist of multiple statements": ["ভার্চুয়াল ডেটাসেট কুয়েরিতে একাধিক বিবৃতি থাকতে পারে না"],
       "Datetime column not provided as part table configuration and is required by this type of chart": [
-        ""
+        "ডেটটাইম কলাম টেবিল কনফিগারেশনের অংশ হিসাবে সরবরাহ করা হয়নি এবং এই ধরনের চার্টের জন্য প্রয়োজনীয়"
       ],
-      "Empty query?": [""],
-      "Unknown column used in orderby: %(col)s": [""],
-      "Time column \"%(col)s\" does not exist in dataset": [""],
-      "error_message": [""],
-      "Filter value list cannot be empty": [""],
-      "Must specify a value for filters with comparison operators": [""],
-      "Invalid filter operation type: %(op)s": [""],
-      "Error in jinja expression in WHERE clause: %(msg)s": [""],
-      "Error in jinja expression in HAVING clause: %(msg)s": [""],
-      "Database does not support subqueries": [""],
-      "Deleted %(num)d saved query": ["", "Deleted %(num)d saved queries"],
+      "Empty query?": ["খালি কুয়েরি?"],
+      "Unknown column used in orderby: %(col)s": [" ক্রমানুসারে অজানা কলাম  ব্যবহার করা হয়েছে: %(col)s"],
+      "Time column \"%(col)s\" does not exist in dataset": ["টাইম কলাম \"% (col)s\" ডেটাসেটে নেই"],
+      "error_message": ["ত্রুটি বার্তা"],
+      "Filter value list cannot be empty": ["ফিল্টার মান তালিকা খালি হতে পারে না"],
+      "Must specify a value for filters with comparison operators": ["তুলনা অপারেটর সহ ফিল্টারগুলির জন্য একটি মান নির্দিষ্ট করতে হবে"],
+      "Invalid filter operation type: %(op)s": ["অকার্যকর ফিল্টার অপারেশন প্রকার: %(op)s"],
+      "Error in jinja expression in WHERE clause: %(msg)s": ["WHERE ধারায় জিনজা অভিব্যক্তিতে ত্রুটি: %(msg)s"],
+      "Error in jinja expression in HAVING clause: %(msg)s": ["HAVING ধারায় জিনজা অভিব্যক্তিতে ত্রুটি: %(msg)s"],
+      "Database does not support subqueries": ["ডাটাবেস সাবকুয়েরি সমর্থন করে না"],
+      "Deleted %(num)d saved query": ["%(num)d সংরক্ষিত কুয়েরি মুছে ফেলা হয়েছে", "Deleted %(num)d saved queries"],
       "Deleted %(num)d report schedule": [
-        "",
+        "%(num)d রিপোর্ট সময়সূচী মুছে ফেলা হয়েছে",
         "Deleted %(num)d report schedules"
       ],
-      "Value must be greater than 0": [""],
-      "Custom width of the screenshot in pixels": [""],
-      "Screenshot width must be between %(min)spx and %(max)spx": [""],
-      "\n            Error: %(text)s\n            ": [""],
-      "EMAIL_REPORTS_CTA": [""],
-      "%(name)s.csv": [""],
-      "%(name)s.pdf": [""],
-      "%(prefix)s %(title)s": [""],
+      "Value must be greater than 0": ["মান 0 এর চেয়ে বেশি হতে হবে"],
+      "Custom width of the screenshot in pixels": ["স্ক্রিনশটের কাস্টম প্রস্থ পিক্সেলে"],
+      "Screenshot width must be between %(min)spx and %(max)spx": ["স্ক্রিনশটের প্রস্থ %(min)spx এবং %(max)spx এর মধ্যে হতে হবে"],
+      "\n            Error: %(text)s\n            ": ["ত্রুটি: %(text)s"],
+      "EMAIL_REPORTS_CTA": ["ইমেইল রিপোর্ট CTA"],
+      "%(name)s.csv": ["%(name)s.সিএসভি"],
+      "%(name)s.pdf": ["%(name)s.পিডিএফ"],
+      "%(prefix)s %(title)s": ["%(prefix)s %(title)s"],
       "*%(name)s*\n\n%(description)s\n\n<%(url)s|Explore in Superset>\n\n%(table)s\n": [
-        ""
+        "%(name)s\n\n%(description)s\n\n<%(url)s|Superset-এ অন্বেষণ করুন>\n\n%(table)s\n"
       ],
-      "*%(name)s*\n\n%(description)s\n\nError: %(text)s\n": [""],
-      "%(dialect)s cannot be used as a data source for security reasons.": [""],
-      "Guest user cannot modify chart payload": [""],
-      "You don't have the rights to alter %(resource)s": [""],
-      "Failed to execute %(query)s": [""],
+      "*%(name)s*\n\n%(description)s\n\nError: %(text)s\n": ["%(name)s\n\n%(description)s\n\nত্রুটি: %(text)s\n"],
+      "%(dialect)s cannot be used as a data source for security reasons.": ["নিরাপত্তার কারণে %(dialect)s ডেটা সোর্স হিসাবে ব্যবহার করা যাবে না।"],
+      "Guest user cannot modify chart payload": ["অতিথি ব্যবহারকারী চার্ট পে-লোড পরিবর্তন করতে পারবেন না"],
+      "You don't have the rights to alter %(resource)s": ["আপনার %(resource)s পরিবর্তন করার অধিকার নেই"],
+      "Failed to execute %(query)s": ["%(query)s সম্পাদনে ব্যর্থ হয়েছে"],
       "Please check your template parameters for syntax errors and make sure they match across your SQL query and Set Parameters. Then, try running your query again.": [
-        ""
+        "অনুগ্রহ করে আপনার টেমপ্লেট প্যারামিটারগুলিতে সিনট্যাক্স ত্রুটি আছে কিনা তা পরীক্ষা করুন এবং নিশ্চিত করুন যে সেগুলি আপনার SQL কুয়েরি এবং সেট প্যারামিটারগুলির সাথে মেলে। তারপর, পুনরায় আপনার কুয়েরি চালানোর চেষ্টা করুন।"
       ],
       "The parameter %(parameters)s in your query is undefined.": [
-        "",
+        "আপনার কুয়েরিতে %(parameters)s প্যারামিটারটি অপরিবর্তিত।",
         "The following parameters in your query are undefined: %(parameters)s."
       ],
-      "The query contains one or more malformed template parameters.": [""],
+      "The query contains one or more malformed template parameters.": ["কুয়েরিতে একটি বা একাধিক বিকৃত টেমপ্লেট প্যারামিটার রয়েছে।"],
       "Please check your query and confirm that all template parameters are surround by double braces, for example, \"{{ ds }}\". Then, try running your query again.": [
-        ""
+        "অনুগ্রহ করে আপনার কুয়েরি পরীক্ষা করুন এবং নিশ্চিত করুন যে সমস্ত টেমপ্লেট প্যারামিটার ডাবল ব্রেস দ্বারা বেষ্টিত রয়েছে, উদাহরণস্বরূপ, \"{{ ds }}\"। তারপর, পুনরায় আপনার কুয়েরি চালানোর চেষ্টা করুন।"
       ],
-      "Tag name is invalid (cannot contain ':')": [""],
-      "Tag could not be found.": [""],
-      "Is custom tag": [""],
-      "Scheduled task executor not found": [""],
-      "Record Count": [""],
-      "No records found": [""],
-      "Filter List": [""],
-      "Search": [""],
-      "Refresh": [""],
-      "Import dashboards": [""],
-      "Import Dashboard(s)": [""],
-      "File": [""],
-      "Choose File": [""],
-      "Upload": [""],
-      "Use the edit button to change this field": [""],
-      "Test Connection": [""],
-      "Unsupported clause type: %(clause)s": [""],
-      "Invalid metric object: %(metric)s": [""],
-      "Unable to calculate such a date delta": [""],
-      "Unable to find such a holiday: [%(holiday)s]": [""],
-      "DB column %(col_name)s has unknown type: %(value_type)s": [""],
+      "Tag name is invalid (cannot contain ':')": ["ট্যাগ নামটি অবৈধ (':' থাকতে পারবে না)"],
+      "Tag could not be found.": ["ট্যাগটি পাওয়া যায়নি।"],
+      "Is custom tag": ["কাস্টম ট্যাগ"],
+      "Scheduled task executor not found": ["নির্ধারিত কাজের নির্বাহক পাওয়া যায়নি"],
+      "Record Count": ["রেকর্ড গণনা"],
+      "No records found": ["কোনও রেকর্ড পাওয়া যায়নি"],
+      "Filter List": ["ফিল্টার তালিকা"],
+      "Search": ["অনুসন্ধান"],
+      "Refresh": ["রিফ্রেশ"],
+      "Import dashboards": ["ড্যাশবোর্ড আমদানি করুন"],
+      "Import Dashboard(s)": ["ড্যাশবোর্ড(গুলি) আমদানি করুন"],
+      "File": ["ফাইল"],
+      "Choose File": ["ফাইল নির্বাচন করুন"],
+      "Upload": ["আপলোড করুন"],
+      "Use the edit button to change this field": ["এই ফিল্ডটি পরিবর্তন করতে সম্পাদনা বোতামটি ব্যবহার করুন"],
+      "Test Connection": ["সংযোগ পরীক্ষা করুন"],
+      "Unsupported clause type: %(clause)s": ["অযৌক্তিক ক্লজ প্রকার: %(clause)s"],
+      "Invalid metric object: %(metric)s": ["অবৈধ মেট্রিক অবজেক্ট: %(metric)s"],
+      "Unable to calculate such a date delta": ["এই ধরনের তারিখের ডেল্টা গণনা করা অসম্ভব"],
+      "Unable to find such a holiday: [%(holiday)s]": ["এই ধরনের ছুটি খুঁজে পাওয়া যায়নি: [%(holiday)s]"],
+      "DB column %(col_name)s has unknown type: %(value_type)s": ["ডাটাবেস কলাম %(col_name)s-এর অজানা প্রকার: %(value_type)s"],
       "percentiles must be a list or tuple with two numeric values, of which the first is lower than the second value": [
-        ""
+        "পারসেন্টাইলগুলি দুটি সংখ্যাসূচক মান সহ একটি তালিকা বা টুপল হতে হবে, যার মধ্যে প্রথমটি দ্বিতীয় মানের চেয়ে কম"
       ],
-      "`compare_columns` must have the same length as `source_columns`.": [""],
-      "`compare_type` must be `difference`, `percentage` or `ratio`": [""],
+      "`compare_columns` must have the same length as `source_columns`.": ["compare_columns এবং source_columns এর দৈর্ঘ্য সমান হতে হবে।"],
+      "`compare_type` must be `difference`, `percentage` or `ratio`": ["compare_type হতে হবে difference, percentage বা ratio"],
       "Column \"%(column)s\" is not numeric or does not exists in the query results.": [
-        ""
+        "কলাম \"%(column)s\" সংখ্যাসূচক নয় বা কুয়েরি ফলাফলে নেই।"
       ],
-      "`rename_columns` must have the same length as `columns`.": [""],
-      "Invalid cumulative operator: %(operator)s": [""],
-      "Invalid geohash string": [""],
-      "Invalid longitude/latitude": [""],
-      "Invalid geodetic string": [""],
-      "Pivot operation requires at least one index": [""],
-      "Pivot operation must include at least one aggregate": [""],
-      "`prophet` package not installed": [""],
-      "Time grain missing": [""],
-      "Unsupported time grain: %(time_grain)s": [""],
-      "Periods must be a whole number": [""],
-      "Confidence interval must be between 0 and 1 (exclusive)": [""],
-      "DataFrame must include temporal column": [""],
-      "DataFrame include at least one series": [""],
-      "Label already exists": [""],
-      "Resample operation requires DatetimeIndex": [""],
-      "Resample method should be in ": [""],
-      "Undefined window for rolling operation": [""],
-      "Window must be > 0": [""],
-      "Invalid rolling_type: %(type)s": [""],
-      "Invalid options for %(rolling_type)s: %(options)s": [""],
-      "Referenced columns not available in DataFrame.": [""],
-      "Column referenced by aggregate is undefined: %(column)s": [""],
-      "Operator undefined for aggregator: %(name)s": [""],
-      "Invalid numpy function: %(operator)s": [""],
-      "Unexpected time range: %(error)s": [""],
-      "json isn't valid": [""],
-      "Export to YAML": [""],
-      "Export to YAML?": [""],
-      "Delete": [""],
-      "Delete all Really?": [""],
-      "Is favorite": [""],
-      "Is tagged": [""],
-      "The data source seems to have been deleted": [""],
-      "The user seems to have been deleted": [""],
-      "You don't have the rights to download as csv": [""],
-      "Error: permalink state not found": [""],
-      "Error: %(msg)s": [""],
-      "You don't have the rights to alter this chart": [""],
-      "You don't have the rights to create a chart": [""],
-      "Explore - %(table)s": [""],
-      "Explore": [""],
-      "Chart [{}] has been saved": [""],
-      "Chart [{}] has been overwritten": [""],
-      "You don't have the rights to alter this dashboard": [""],
-      "Chart [{}] was added to dashboard [{}]": [""],
-      "You don't have the rights to create a dashboard": [""],
-      "Dashboard [{}] just got created and chart [{}] was added to it": [""],
+      "`rename_columns` must have the same length as `columns`.": ["rename_columns এবং columns এর দৈর্ঘ্য সমান হতে হবে।"],
+      "Invalid cumulative operator: %(operator)s": ["অবৈধ সামগ্রিক অপারেটর: %(operator)s"],
+      "Invalid geohash string": ["অবৈধ জিওহ্যাশ স্ট্রিং"],
+      "Invalid longitude/latitude": ["অবৈধ দ্রাঘিমা/অক্ষাংশ"],
+      "Invalid geodetic string": ["অবৈধ জিওডেটিক স্ট্রিং"],
+      "Pivot operation requires at least one index": ["পিভট অপারেশনের জন্য কমপক্ষে একটি সূচক প্রয়োজন"],
+      "Pivot operation must include at least one aggregate": ["পিভট অপারেশনে কমপক্ষে একটি সমষ্টি অন্তর্ভুক্ত থাকতে হবে"],
+      "`prophet` package not installed": ["prophet প্যাকেজ ইনস্টল করা হয়নি"],
+      "Time grain missing": ["টাইম গ্রেইন অনুপস্থিত"],
+      "Unsupported time grain: %(time_grain)s": ["অযৌক্তিক টাইম গ্রেইন: %(time_grain)s"],
+      "Periods must be a whole number": ["সময়সীমা একটি পূর্ণ সংখ্যা হতে হবে"],
+      "Confidence interval must be between 0 and 1 (exclusive)": ["আত্মবিশ্বাসের ইন্টারভ্যাল 0 এবং 1 এর মধ্যে হতে হবে (এক্সক্লুসিভ)"],
+      "DataFrame must include temporal column": ["ডেটাফ্রেমে সাময়িক কলাম অন্তর্ভুক্ত থাকতে হবে"],
+      "DataFrame include at least one series": ["ডেটাফ্রেমে কমপক্ষে একটি সিরিজ অন্তর্ভুক্ত থাকতে হবে"],
+      "Label already exists": ["লেবেল ইতিমধ্যে বিদ্যমান"],
+      "Resample operation requires DatetimeIndex": ["পুনঃনমুনা অপারেশনের জন্য ডেটটাইমইনডেক্স প্রয়োজন"],
+      "Resample method should be in ": ["পুনঃনমুনা পদ্ধতি হওয়া উচিত"],
+      "Undefined window for rolling operation": ["রোলিং অপারেশনের জন্য অনির্ধারিত উইন্ডো"],
+      "Window must be > 0": ["উইন্ডো > 0 হতে হবে"],
+      "Invalid rolling_type: %(type)s": ["অবৈধ রোলিং_টাইপ: %(type)s"],
+      "Invalid options for %(rolling_type)s: %(options)s": ["%(rolling_type)s-এর জন্য অবৈধ বিকল্পগুলি: %(options)s"],
+      "Referenced columns not available in DataFrame.": ["রেফারেন্স কলামগুলি ডেটাফ্রেমে উপলব্ধ নেই।"],
+      "Column referenced by aggregate is undefined: %(column)s": ["সমষ্টি দ্বারা রেফারেন্স কলাম অনির্ধারিত: %(column)s"],
+      "Operator undefined for aggregator: %(name)s": ["সমষ্টিকারকের জন্য অপারেটর অনির্ধারিত: %(name)s"],
+      "Invalid numpy function: %(operator)s": ["অবৈধ numpy ফাংশন: %(operator)s"],
+      "Unexpected time range: %(error)s": ["অপ্রত্যাশিত সময় পরিসীমা: %(error)s"],
+      "json isn't valid": ["json বৈধ নয়"],
+      "Export to YAML": ["YAML-এ রপ্তানি করুন"],
+      "Export to YAML?": ["YAML-এ রপ্তানি করবেন?"],
+      "Delete": ["মুছে ফেলুন"],
+      "Delete all Really?": ["সব মুছে ফেলবেন সত্যিই?"],
+      "Is favorite": ["প্রিয়"],
+      "Is tagged": ["ট্যাগ করা হয়েছে"],
+      "The data source seems to have been deleted": ["ডেটা সোর্সটি মুছে ফেলা হয়েছে বলে মনে হচ্ছে"],
+      "The user seems to have been deleted": ["ব্যবহারকারীটি মুছে ফেলা হয়েছে বলে মনে হচ্ছে"],
+      "You don't have the rights to download as csv": ["আপনার CSV হিসাবে ডাউনলোড করার অধিকার নেই"],
+      "Error: permalink state not found": ["ত্রুটি: পার্মালিঙ্ক অবস্থান পাওয়া যায়নি"],
+      "Error: %(msg)s": ["ত্রুটি: %(msg)s"],
+      "You don't have the rights to alter this chart": ["আপনার এই চার্টটি পরিবর্তন করার অধিকার নেই"],
+      "You don't have the rights to create a chart": ["আপনার চার্ট তৈরির অধিকার নেই"],
+      "Explore - %(table)s": ["অন্বেষণ - %(table)s"],
+      "Explore": ["অন্বেষণ করুন"],
+      "Chart [{}] has been saved": ["চার্ট [{}] সংরক্ষিত হয়েছে"],
+      "Chart [{}] has been overwritten": ["চার্ট [{}] ওভাররাইট করা হয়েছে"],
+      "You don't have the rights to alter this dashboard": ["আপনার এই ড্যাশবোর্ডটি পরিবর্তন করার অধিকার নেই"],
+      "Chart [{}] was added to dashboard [{}]": ["চার্ট [{}] ড্যাশবোর্ড [{}]-এ যোগ করা হয়েছে"],
+      "You don't have the rights to create a dashboard": ["আপনার ড্যাশবোর্ড তৈরির অধিকার নেই"],
+      "Dashboard [{}] just got created and chart [{}] was added to it": ["ড্যাশবোর্ড [{}] তৈরি হয়েছে এবং চার্ট [{}] তাতে যোগ করা হয়েছে"],
       "Malformed request. slice_id or table_name and db_name arguments are expected": [
-        ""
+        "বিকৃত অনুরোধ। slice_id বা table_name এবং db_name আর্গুমেন্টগুলি প্রত্যাশিত"
       ],
-      "Chart %(id)s not found": [""],
-      "Table %(table)s wasn't found in the database %(db)s": [""],
-      "permalink state not found": [""],
-      "Show CSS Template": [""],
-      "Add CSS Template": [""],
-      "Edit CSS Template": [""],
-      "Template Name": [""],
-      "A human-friendly name": [""],
+      "Chart %(id)s not found": ["চার্ট %(id)s পাওয়া যায়নি"],
+      "Table %(table)s wasn't found in the database %(db)s": ["টেবিল %(table)s ডাটাবেস %(db)s-এ পাওয়া যায়নি"],
+      "permalink state not found": ["পার্মালিঙ্ক অবস্থা পাওয়া যায়নি"],
+      "Show CSS Template": ["CSS টেমপ্লেট দেখান"],
+      "Add CSS Template": ["CSS টেমপ্লেট যোগ করুন"],
+      "Edit CSS Template": ["CSS টেমপ্লেট সম্পাদনা করুন"],
+      "Template Name": ["টেমপ্লেট নাম"],
+      "A human-friendly name": ["মানব-বান্ধব নাম"],
       "Used internally to identify the plugin. Should be set to the package name from the pluginʼs package.json": [
-        ""
+        "প্লাগইন শনাক্ত করতে অভ্যন্তরীণভাবে ব্যবহৃত হয়। প্লাগইনের package.json থেকে প্যাকেজ নাম সেট করা উচিত"
       ],
       "A full URL pointing to the location of the built plugin (could be hosted on a CDN for example)": [
-        ""
+        "নির্মিত প্লাগইনের অবস্থান নির্দেশ করার জন্য সম্পূর্ণ URL (উদাহরণস্বরূপ, একটি CDN-এ হোস্ট করা যেতে পারে)"
       ],
-      "Custom Plugins": [""],
-      "Custom Plugin": [""],
-      "Add a Plugin": [""],
-      "Edit Plugin": [""],
-      "The dataset associated with this chart no longer exists": [""],
-      "Could not determine datasource type": [""],
-      "Could not find viz object": [""],
-      "Show Chart": [""],
-      "Add Chart": [""],
-      "Edit Chart": [""],
+      "Custom Plugins": ["কাস্টম প্লাগইন"],
+      "Custom Plugin": ["কাস্টম প্লাগইন"],
+      "Add a Plugin": ["একটি প্লাগইন যোগ করুন"],
+      "Edit Plugin": ["প্লাগইন সম্পাদনা করুন"],
+      "The dataset associated with this chart no longer exists": ["এই চার্টের সাথে সংযুক্ত ডেটাসেট আর বিদ্যমান নেই"],
+      "Could not determine datasource type": ["ডেটাসোর্স প্রকার নির্ধারণ করা যায়নি"],
+      "Could not find viz object": ["ভিজ অবজেক্ট খুঁজে পাওয়া যায়নি"],
+      "Show Chart": ["চার্ট দেখান"],
+      "Add Chart": ["চার্ট যোগ করুন"],
+      "Edit Chart": ["চার্ট সম্পাদনা করুন"],
       "These parameters are generated dynamically when clicking the save or overwrite button in the explore view. This JSON object is exposed here for reference and for power users who may want to alter specific parameters.": [
-        ""
+        "অন্বেষণ ভিউতে সংরক্ষণ বা ওভাররাইট বোতামে ক্লিক করার সময় এই প্যারামিটারগুলি গতিশীলভাবে তৈরি হয়। এটি রেফারেন্সের জন্য এবং শক্তিশালী ব্যবহারকারীদের জন্য এখানে উন্মুক্ত করা হয়েছে যারা নির্দিষ্ট প্যারামিটারগুলি পরিবর্তন করতে চান।"
       ],
       "Duration (in seconds) of the caching timeout for this chart. Note this defaults to the datasource/table timeout if undefined.": [
-        ""
+        "এই চার্টের জন্য ক্যাশিং টাইমআউটের সময়কাল (সেকেন্ডে)। যদি নির্ধারণ না করা থাকে, তবে এটি ডেটাসোর্স/টেবিল টাইমআউটের ডিফল্ট মান হিসাবে ব্যবহৃত হবে।"
       ],
-      "Creator": [""],
-      "Datasource": [""],
-      "Last Modified": [""],
-      "Parameters": [""],
-      "Chart": [""],
-      "Name": [""],
-      "Visualization Type": [""],
-      "Show Dashboard": [""],
-      "Add Dashboard": [""],
-      "Edit Dashboard": [""],
+      "Creator": ["নির্মাতা"],
+      "Datasource": ["ডেটাসোর্স"],
+      "Last Modified": ["সর্বশেষ সংশোধিত"],
+      "Parameters": ["প্যারামিটারস"],
+      "Chart": ["চার্ট"],
+      "Name": ["নাম"],
+      "Visualization Type": ["ভিজুয়ালাইজেশন টাইপ"],
+      "Show Dashboard": ["ড্যাশবোর্ড দেখান"],
+      "Add Dashboard": ["ড্যাশবোর্ড যোগ করুন"],
+      "Edit Dashboard": ["ড্যাশবোর্ড সম্পাদনা করুন"],
       "This json object describes the positioning of the widgets in the dashboard. It is dynamically generated when adjusting the widgets size and positions by using drag & drop in the dashboard view": [
-        ""
+        "এই JSON অবজেক্টটি ড্যাশবোর্ডের উইজেটগুলির অবস্থান বর্ণনা করে। ড্র্যাগ ও ড্রপ ব্যবহার করে উইজেটগুলির আকার এবং অবস্থান সামঞ্জস্য করার সময় এটি গতিশীলভাবে তৈরি হয়।"
       ],
       "The CSS for individual dashboards can be altered here, or in the dashboard view where changes are immediately visible": [
-        ""
+        "পৃথক ড্যাশবোর্ডের জন্য CSS এখানে পরিবর্তন করা যেতে পারে, অথবা ড্যাশবোর্ড দৃশ্যে যেখানে পরিবর্তনগুলি তাৎক্ষণিকভাবে দৃশ্যমান হয়।"
       ],
-      "To get a readable URL for your dashboard": [""],
+      "To get a readable URL for your dashboard": ["আপনার ড্যাশবোর্ডের জন্য একটি পঠনযোগ্য URL পেতে"],
       "This JSON object is generated dynamically when clicking the save or overwrite button in the dashboard view. It is exposed here for reference and for power users who may want to alter specific parameters.": [
-        ""
+        "ড্যাশবোর্ড দৃশ্যে সংরক্ষণ বা ওভাররাইট বোতামে ক্লিক করার সময় এই JSON অবজেক্টটি গতিশীলভাবে তৈরি হয়। এটি এখানে রেফারেন্সের জন্য এবং পাওয়ার ব্যবহারকারীদের জন্য উন্মুক্ত করা হয়েছে যারা নির্দিষ্ট প্যারামিটারগুলি পরিবর্তন করতে চান।"
       ],
-      "Owners is a list of users who can alter the dashboard.": [""],
+      "Owners is a list of users who can alter the dashboard.": ["মালিকগণ হলেন ব্যবহারকারীদের তালিকা যারা ড্যাশবোর্ড পরিবর্তন করতে পারেন।"],
       "Roles is a list which defines access to the dashboard. Granting a role access to a dashboard will bypass dataset level checks.If no roles are defined, regular access permissions apply.": [
-        ""
+        " রোলগুলি ড্যাশবোর্ডে প্রবেশাধিকার সংজ্ঞায়িত করে এমন একটি তালিকা। একটি রোলকে ড্যাশবোর্ডে প্রবেশাধিকার দেওয়া হলে ডেটাসেট স্তরের চেকগুলি এড়িয়ে যাবে। যদি কোনও রোল সংজ্ঞায়িত না থাকে, তবে সাধারণ প্রবেশাধিকার অনুমতিগুলি প্রযোজ্য।"
       ],
       "Determines whether or not this dashboard is visible in the list of all dashboards": [
-        ""
+        "এটি নির্ধারণ করে যে সমস্ত ড্যাশবোর্ডের তালিকায় এই ড্যাশবোর্ডটি দৃশ্যমান কিনা।"
       ],
-      "Dashboard": [""],
-      "Title": [""],
-      "Slug": [""],
-      "Roles": [""],
-      "Published": [""],
-      "Position JSON": [""],
-      "CSS": [""],
-      "JSON Metadata": [""],
-      "Export": [""],
-      "Export dashboards?": [""],
-      "CSV Upload": [""],
-      "Select a file to be uploaded to the database": [""],
+      "Dashboard": ["ড্যাশবোর্ড"],
+      "Title": ["শিরোনাম"],
+      "Slug": [" স্লাগ"],
+      "Roles": ["রোলস"],
+      "Published": ["প্রকাশিত"],
+      "Position JSON": ["পজিশন JSON"],
+      "CSS": ["সিএসএস"],
+      "JSON Metadata": ["JSON মেটাডাটা"],
+      "Export": ["এক্সপোর্ট"],
+      "Export dashboards?": ["ড্যাশবোর্ডগুলি এক্সপোর্ট করবেন?"],
+      "CSV Upload": ["CSV আপলোড"],
+      "Select a file to be uploaded to the database": ["ডাটাবেসে আপলোড করার জন্য একটি ফাইল নির্বাচন করুন"],
       "Only the following file extensions are allowed: %(allowed_extensions)s": [
-        ""
+        "শুধুমাত্র নিম্নলিখিত ফাইল এক্সটেনশনগুলি অনুমোদিত: %(allowed_extensions)s"
       ],
-      "Name of table to be created with CSV file": [""],
-      "Table name cannot contain a schema": [""],
-      "Select a database to upload the file to": [""],
-      "Column Data Types": [""],
+      "Name of table to be created with CSV file": [" CSV ফাইলের সাথে তৈরি টেবিলের নাম"],
+      "Table name cannot contain a schema": ["টেবিলের নাম কোনও স্কিমা ধারণ করতে পারে না"],
+      "Select a database to upload the file to": ["ফাইল আপলোড করার জন্য একটি ডাটাবেস নির্বাচন করুন"],
+      "Column Data Types": ["কলাম ডেটা টাইপস"],
       "A dictionary with column names and their data types if you need to change the defaults. Example: {\"user_id\":\"int\"}. Check Python's Pandas library for supported data types.": [
-        ""
+        " ডিফল্ট পরিবর্তন করতে হলে কলাম নাম এবং তাদের ডেটা টাইপ সহ একটি অভিধান। উদাহরণ: {\"user_id\":\"int\"}. সমর্থিত ডেটা টাইপগুলির জন্য পাইটনের প্যান্ডাস লাইব্রেরি দেখুন।"
       ],
-      "Select a schema if the database supports this": [""],
-      "Delimiter": [""],
-      "Enter a delimiter for this data": [""],
-      ",": [""],
-      ".": [""],
-      "Other": [""],
-      "If Table Already Exists": [""],
-      "What should happen if the table already exists": [""],
-      "Fail": [""],
-      "Replace": [""],
-      "Append": [""],
-      "Skip Initial Space": [""],
-      "Skip spaces after delimiter": [""],
-      "Skip Blank Lines": [""],
+      "Select a schema if the database supports this": ["ডাটাবেস এটি সমর্থন করলে একটি স্কিমা নির্বাচন করুন"],
+      "Delimiter": ["ডেলিমিটার"],
+      "Enter a delimiter for this data": ["এই ডেটার জন্য একটি ডেলিমিটার লিখুন"],
+      ",": ["কমা"],
+      ".": ["ফুলস্টপ"],
+      "Other": ["অন্যান্য"],
+      "If Table Already Exists": ["যদি টেবিল ইতিমধ্যেই থাকে"],
+      "What should happen if the table already exists": ["যদি টেবিল ইতিমধ্যেই থাকে তাহলে কী হওয়া উচিত"],
+      "Fail": ["ব্যর্থ"],
+      "Replace": ["প্রতিস্থাপন"],
+      "Append": ["যোগ করুন"],
+      "Skip Initial Space": ["প্রাথমিক স্থান এড়িয়ে যান"],
+      "Skip spaces after delimiter": ["ডেলিমিটারের পরে স্থান এড়িয়ে যান"],
+      "Skip Blank Lines": ["ফাঁকা লাইনগুলি এড়িয়ে যান"],
       "Skip blank lines rather than interpreting them as Not A Number values": [
-        ""
+        " ফাঁকা লাইনগুলি এড়িয়ে যান, তাদের Not A Number মান হিসাবে ব্যাখ্যা না করে"
       ],
-      "Columns To Be Parsed as Dates": [""],
-      "A comma separated list of columns that should be parsed as dates": [""],
-      "Day First": [""],
-      "DD/MM format dates, international and European format": [""],
-      "Decimal Character": [""],
-      "Character to interpret as decimal point": [""],
-      "Null Values": [""],
+      "Columns To Be Parsed as Dates": [" তারিখ হিসাবে পার্স করা হবে এমন কলামগুলি"],
+      "A comma separated list of columns that should be parsed as dates": ["তারিখ হিসাবে পার্স করা উচিত এমন কলামের কমা বিভক্ত তালিকা"],
+      "Day First": ["প্রথম দিন"],
+      "DD/MM format dates, international and European format": ["DD/MM ফরম্যাট তারিখ, আন্তর্জাতিক এবং ইউরোপীয় ফরম্যাট"],
+      "Decimal Character": ["দশমিক অক্ষর"],
+      "Character to interpret as decimal point": ["শমিক বিন্দু হিসাবে ব্যাখ্যা করার জন্য অক্ষর"],
+      "Null Values": ["শূন্য মান"],
       "Json list of the values that should be treated as null. Examples: [\"\"] for empty strings, [\"None\", \"N/A\"], [\"nan\", \"null\"]. Warning: Hive database supports only a single value": [
-        ""
+        "শূন্য হিসাবে বিবেচিত হওয়া উচিত এমন মানগুলির JSON তালিকা। উদাহরণ: খালি স্ট্রিংগুলির জন্য [\"\"] , [\"None\", \"N/A\"], [\"nan\", \"null\"]. সতর্কতা: হাইভ ডাটাবেস শুধুমাত্র একটি একক মান সমর্থন করে"
       ],
-      "Index Column": [""],
+      "Index Column": ["সূচী কলাম"],
       "Column to use as the row labels of the dataframe. Leave empty if no index column": [
-        ""
+        "ডেটাফ্রেমের সারি লেবেল হিসাবে ব্যবহৃত কলাম। কোনও সূচী কলাম না থাকলে খালি রাখুন"
       ],
-      "Dataframe Index": [""],
-      "Write dataframe index as a column": [""],
-      "Column Label(s)": [""],
+      "Dataframe Index": ["ডেটাফ্রেম সূচক"],
+      "Write dataframe index as a column": ["একটি কলাম হিসাবে ডেটাফ্রেম সূচক লিখুন"],
+      "Column Label(s)": ["কলাম লেবেল(গুলি)"],
       "Column label for index column(s). If None is given and Dataframe Index is checked, Index Names are used": [
-        ""
+        "সূচী কলাম(গুলি) এর জন্য কলাম লেবেল। যদি কোনওটি দেওয়া না হয় এবং ডেটাফ্রেম সূচী চেক করা হয়, তবে সূচক নামগুলি ব্যবহার করা হয়"
       ],
-      "Columns To Read": [""],
-      "Json list of the column names that should be read": [""],
-      "Overwrite Duplicate Columns": [""],
+      "Columns To Read": ["পড়ার জন্য কলামগুলি"],
+      "Json list of the column names that should be read": ["পড়া উচিত এমন কলামের নামগুলির JSON তালিকা"],
+      "Overwrite Duplicate Columns": ["সদৃশ কলামগুলিকে ওভাররাইট করুন"],
       "If duplicate columns are not overridden, they will be presented as \"X.1, X.2 ...X.x\"": [
-        ""
+        " সদৃশ কলামগুলি ওভাররাইট না করা হয়, তবে সেগুলি \"X.1, X.2 ...X.x\" হিসাবে উপস্থাপিত হবে"
       ],
-      "Header Row": [""],
+      "Header Row": ["হেডার সারি"],
       "Row containing the headers to use as column names (0 is first line of data). Leave empty if there is no header row": [
-        ""
+        " কলাম নাম হিসাবে ব্যবহৃত হেডারগুলি ধারণকারী সারি (0 হল ডেটার প্রথম লাইন)। কোনও হেডার সারি না থাকলে খালি রাখুন"
       ],
-      "Rows to Read": [""],
-      "Number of rows of file to read": [""],
-      "Skip Rows": [""],
-      "Number of rows to skip at start of file": [""],
-      "Name of table to be created from excel data.": [""],
-      "Excel File": [""],
-      "Select a Excel file to be uploaded to a database.": [""],
-      "Sheet Name": [""],
-      "Strings used for sheet names (default is the first sheet).": [""],
-      "Specify a schema (if database flavor supports this).": [""],
-      "Table Exists": [""],
+      "Rows to Read": ["পড়ার জন্য সারি"],
+      "Number of rows of file to read": ["পড়ার জন্য ফাইলের সারি সংখ্যা"],
+      "Skip Rows": ["সারি বাদ দিন"],
+      "Number of rows to skip at start of file": ["ফাইলের শুরুতে বাদ দেওয়া সারি সংখ্যা"],
+      "Name of table to be created from excel data.": ["এক্সেল ডেটা থেকে তৈরি টেবিলের নাম।"],
+      "Excel File": [" এক্সেল"],
+      "Select a Excel file to be uploaded to a database.": ["ডাটাবেসে আপলোড করার জন্য একটি এক্সেল ফাইল নির্বাচন করুন।"],
+      "Sheet Name": ["শীটের নাম"],
+      "Strings used for sheet names (default is the first sheet).": [" শীটের নামগুলির জন্য ব্যবহৃত স্ট্রিংগুলি (ডিফল্ট হল প্রথম শীট)।"],
+      "Specify a schema (if database flavor supports this).": ["একটি স্কিমা নির্দিষ্ট করুন (যদি ডাটাবেস ফ্লেভার এটি সমর্থন করে)।"],
+      "Table Exists": ["টেবিল বিদ্যমান"],
       "If table exists do one of the following: Fail (do nothing), Replace (drop and recreate table) or Append (insert data).": [
-        ""
+        "যদি টেবিল বিদ্যমান থাকে তবে নিম্নলিখিতগুলির মধ্যে একটি করুন: ব্যর্থ (কিছুই করবেন না), প্রতিস্থাপন (টেবিল ড্রপ এবং পুনরায় তৈরি করুন) বা যোগ করুন (ডেটা সন্নিবেশ করান)।"
       ],
       "Row containing the headers to use as column names (0 is first line of data). Leave empty if there is no header row.": [
-        ""
+        "কলাম নাম হিসাবে ব্যবহৃত হেডারগুলি ধারণকারী সারি (0 হল ডেটার প্রথম লাইন)। কোনও হেডার সারি না থাকলে খালি রাখুন।"
       ],
       "Column to use as the row labels of the dataframe. Leave empty if no index column.": [
-        ""
+        "ডেটাফ্রেমের সারি লেবেল হিসাবে ব্যবহৃত কলাম। কোনও সূচী কলাম না থাকলে খালি রাখুন।"
       ],
-      "Number of rows to skip at start of file.": [""],
-      "Number of rows of file to read.": [""],
-      "Parse Dates": [""],
-      "A comma separated list of columns that should be parsed as dates.": [""],
-      "Character to interpret as decimal point.": [""],
-      "Write dataframe index as a column.": [""],
+      "Number of rows to skip at start of file.": ["ফাইলের শুরুতে বাদ দেওয়া সারি সংখ্যা।"],
+      "Number of rows of file to read.": ["পড়ার জন্য ফাইলের সারি সংখ্যা"],
+      "Parse Dates": ["তারিখ পার্স করুন"],
+      "A comma separated list of columns that should be parsed as dates.": [" তারিখ হিসাবে পার্স করা উচিত এমন কলামের কমা বিভক্ত তালিকা।"],
+      "Character to interpret as decimal point.": ["শমিক বিন্দু হিসাবে ব্যাখ্যা করার জন্য অক্ষর।"],
+      "Write dataframe index as a column.": ["একটি কলাম হিসাবে ডেটাফ্রেম সূচক লিখুন।"],
       "Column label for index column(s). If None is given and Dataframe Index is True, Index Names are used.": [
-        ""
+        "সূচী কলাম(গুলি) এর জন্য কলাম লেবেল। যদি কোনওটি দেওয়া না হয় এবং ডেটাফ্রেম সূচী সত্য হয়, তবে সূচক নামগুলি ব্যবহার করা হয়।"
       ],
-      "Null values": [""],
+      "Null values": ["শূন্য মান"],
       "Json list of the values that should be treated as null. Examples: [\"\"], [\"None\", \"N/A\"], [\"nan\", \"null\"]. Warning: Hive database supports only single value. Use [\"\"] for empty string.": [
-        ""
+        "শূন্য হিসাবে বিবেচিত হওয়া উচিত এমন মানগুলির JSON তালিকা। উদাহরণ:  [\"\"], [\"None\", \"N/A\"], [\"nan\". সতর্কতা: হাইভ ডাটাবেস শুধুমাত্র একটি একক মান সমর্থন করে। খালি স্ট্রিংয়ের জন্য [""] ব্যবহার করুন।"
       ],
-      "Name of table to be created from columnar data.": [""],
-      "Columnar File": [""],
-      "Select a Columnar file to be uploaded to a database.": [""],
-      "Use Columns": [""],
+      "Name of table to be created from columnar data.": ["কলামার ডেটা থেকে তৈরি টেবিলের নাম।"],
+      "Columnar File": ["কলামার ফাইল"],
+      "Select a Columnar file to be uploaded to a database.": [" ডাটাবেসে আপলোড করার জন্য একটি কলামার ফাইল নির্বাচন করুন।"],
+      "Use Columns": ["কলাম ব্যবহার করুন"],
       "Json list of the column names that should be read. If not None, only these columns will be read from the file.": [
-        ""
+        "পড়া উচিত এমন কলামের নামগুলির JSON তালিকা। যদি কোনওটি না থাকে, তবে শুধুমাত্র এই কলামগুলি ফাইল থেকে পড়া হবে।"
       ],
-      "Databases": [""],
-      "Show Database": [""],
-      "Add Database": [""],
-      "Edit Database": [""],
-      "Expose this DB in SQL Lab": [""],
+      "Databases": ["ডাটাবেস"],
+      "Show Database": ["ডাটাবেস দেখান"],
+      "Add Database": ["ডাটাবেস যোগ করুন"],
+      "Edit Database": ["ডাটাবেস সম্পাদনা করুন"],
+      "Expose this DB in SQL Lab": ["এই DB-টি SQL Lab-এ প্রকাশ করুন"],
       "Operate the database in asynchronous mode, meaning that the queries are executed on remote workers as opposed to on the web server itself. This assumes that you have a Celery worker setup as well as a results backend. Refer to the installation docs for more information.": [
-        ""
+        "ডাটাবেসটি অ্যাসিঙ্ক্রোনাস মোডে পরিচালনা করুন, যার মানে কুয়েরিগুলি ওয়েব সার্ভারে নয়, রিমোট ওয়ার্কারদের দ্বারা সম্পন্ন হয়। এটি ধরে নেয় যে আপনার কাছে একটি সেলারি ওয়ার্কার সেটআপ এবং একটি রেজাল্টস ব্যাকেন্ড রয়েছে। আরও তথ্যের জন্য ইনস্টলেশন ডক্স দেখুন।"
       ],
-      "Allow CREATE TABLE AS option in SQL Lab": [""],
-      "Allow CREATE VIEW AS option in SQL Lab": [""],
+      "Allow CREATE TABLE AS option in SQL Lab": [" SQL Lab-এ CREATE TABLE AS বিকল্পটি অনুমতি দিন"],
+      "Allow CREATE VIEW AS option in SQL Lab": [" SQL Lab-এ CREATE VIEW AS বিকল্পটি অনুমতি দিন"],
       "Allow users to run non-SELECT statements (UPDATE, DELETE, CREATE, ...) in SQL Lab": [
-        ""
+        " SQL Lab-এ ব্যবহারকারীদের non-SELECT বিবৃতি (UPDATE, DELETE, CREATE, ...) চালানোর অনুমতি দিন"
       ],
       "When allowing CREATE TABLE AS option in SQL Lab, this option forces the table to be created in this schema": [
-        ""
+        "SQL Lab-এ CREATE TABLE AS বিকল্পটি অনুমতি দিলে, এই বিকল্পটি টেবিলটিকে এই স্কিমাতে তৈরি করতে বাধ্য করে"
       ],
       "If Presto, all the queries in SQL Lab are going to be executed as the currently logged on user who must have permission to run them.<br/>If Hive and hive.server2.enable.doAs is enabled, will run the queries as service account, but impersonate the currently logged on user via hive.server2.proxy.user property.": [
-        ""
+        "যদি প্রেস্টো হয়, SQL Lab-এর সমস্ত কুয়েরি বর্তমান লগইন করা ব্যবহারকারী হিসাবে কার্যকর হবে যাকে সেগুলি চালানোর অনুমতি থাকতে হবে। <br/> যদি হাইভ হয় এবং hive.server2.enable.doAs সক্ষম থাকে, তাহলে কুয়েরিগুলি সার্ভিস অ্যাকাউন্ট হিসাবে চলবে, তবে hive.server2.proxy.user প্রোপার্টির মাধ্যমে বর্তমান লগইন করা ব্যবহারকারীকে প্রতিলিপি করবে"
       ],
       "Duration (in seconds) of the caching timeout for charts of this database. A timeout of 0 indicates that the cache never expires. Note this defaults to the global timeout if undefined.": [
-        ""
+        "এই ডাটাবেসের চার্টগুলির জন্য ক্যাশিং টাইমআউটের সময়কাল (সেকেন্ডে)। টাইমআউট 0 নির্দেশ করে যে ক্যাশ কখনই শেষ হয় না। যদি নির্ধারণ না করা থাকে তবে এটি গ্লোবাল টাইমআউটের ডিফল্ট মান হিসাবে ব্যবহৃত হবে।"
       ],
       "If selected, please set the schemas allowed for csv upload in Extra.": [
-        ""
+        "যদি নির্বাচিত হয়, তবে এক্সট্রাতে csv আপলোডের জন্য অনুমোদিত স্কিমাগুলি সেট করুন।"
       ],
-      "Expose in SQL Lab": [""],
-      "Allow CREATE TABLE AS": [""],
-      "Allow CREATE VIEW AS": [""],
-      "Allow DML": [""],
-      "CTAS Schema": [""],
-      "SQLAlchemy URI": [""],
-      "Chart Cache Timeout": [""],
-      "Secure Extra": [""],
-      "Root certificate": [""],
-      "Async Execution": [""],
-      "Impersonate the logged on user": [""],
-      "Allow Csv Upload": [""],
-      "Backend": [""],
-      "Extra field cannot be decoded by JSON. %(msg)s": [""],
+      "Expose in SQL Lab": ["SQL Lab-এ প্রকাশ করুন"],
+      "Allow CREATE TABLE AS": ["CREATE TABLE AS অনুমতি দিন"],
+      "Allow CREATE VIEW AS": ["CREATE VIEW AS অনুমতি দিন"],
+      "Allow DML": ["DML অনুমতি দিন"],
+      "CTAS Schema": ["CTAS স্কিমা"],
+      "SQLAlchemy URI": ["SQLAlchemy URI"],
+      "Chart Cache Timeout": ["চার্ট ক্যাশ টাইমআউট"],
+      "Secure Extra": ["সুরক্ষিত এক্সট্রা"],
+      "Root certificate": ["রুট সার্টিফিকেট"],
+      "Async Execution": ["অ্যাসিঙ্ক্রোনাস এক্সিকিউশন"],
+      "Impersonate the logged on user": ["লগইন করা ব্যবহারকারীকে প্রতিলিপি করুন"],
+      "Allow Csv Upload": ["Csv আপলোড অনুমতি দিন"],
+      "Backend": ["ব্যাকএন্ড"],
+      "Extra field cannot be decoded by JSON. %(msg)s": ["এক্সট্রা ফিল্ডটি JSON দ্বারা ডিকোড করা যাবে না। %(msg)s"],
       "Invalid connection string, a valid string usually follows:'DRIVER://USER:PASSWORD@DB-HOST/DATABASE-NAME'<p>Example:'postgresql://user:password@your-postgres-db/database'</p>": [
-        ""
+        "অবৈধ সংযোগ স্ট্রিং, একটি বৈধ স্ট্রিং সাধারণত অনুসরণ করে: 'DRIVER://USER@DB-HOST/DATABASE-NAME'<p>উদাহরণ: 'postgresql://user@your-postgres-db/database'</p>"
       ],
-      "CSV to Database configuration": [""],
+      "CSV to Database configuration": [" ডাটাবেস কনফিগারেশনে CSV"],
       "Database \"%(database_name)s\" schema \"%(schema_name)s\" is not allowed for csv uploads. Please contact your Superset Admin.": [
-        ""
+        "ডাটাবেস \"%(database_name)s\" স্কিমা \"%(schema_name)s\" csv আপলোডের জন্য অনুমোদিত নয়। দয়া করে আপনার Superset অ্যাডমিনের সাথে যোগাযোগ করুন।"
       ],
       "Unable to upload CSV file \"%(filename)s\" to table \"%(table_name)s\" in database \"%(db_name)s\". Error message: %(error_msg)s": [
-        ""
+        "ডাটাবেস \"%(db_name)s\" এর টেবিল \"%(table_name)s\" তে CSV ফাইল "
       ],
       "CSV file \"%(csv_filename)s\" uploaded to table \"%(table_name)s\" in database \"%(db_name)s\"": [
-        "সিএসভি ফাইল\ সিএসভি ফাইলের নাম\ টেবিলে আপলোড করতে হবে \ টেবিল নাম\ ডেটাবেস \ ডেটাবেসের নাম"
+        ""
       ],
-      "Excel to Database configuration": ["এক্সেল থেকে ডাটাবেস কনফিগারেশন"],
+      "Excel to Database configuration": [""],
       "Database \"%(database_name)s\" schema \"%(schema_name)s\" is not allowed for excel uploads. Please contact your Superset Admin.": [
-        "ডাটাবেস\ ডেটাবেসের নাম\ স্কিমা\(স্কিমা_নাম)\ এক্সেল আপলোডের জন্য অনুমোদিত নয়, আপনার সুপারসেট অ্যাডমিনের সাথে যোগাযোগ করুন "
+        ""
       ],
       "Unable to upload Excel file \"%(filename)s\" to table \"%(table_name)s\" in database \"%(db_name)s\". Error message: %(error_msg)s": [
-        "এক্সেল ফাইল আপলোড করতে অক্ষম\ ফাইলের নাম\ টেবিল\ টেবিল নাম\ ডেটাবেস\ ডেটাবেসের নাম\ ভুল বার্তা "
+        ""
       ],
       "Excel file \"%(excel_filename)s\" uploaded to table \"%(table_name)s\" in database \"%(db_name)s\"": [
-        "এক্সেল ফাইল\ এক্সেল ফাইলের নাম\ টেবিলে আপলোড \ টেবিল নাম\ ডেটাবেস\ ডেটাবেসের নাম "
+        ""
       ],
-      "Columnar to Database configuration": ["ডাটাবেস কনফিগারেশন থেকে কলাম"],
+      "Columnar to Database configuration": [""],
       "Multiple file extensions are not allowed for columnar uploads. Please make sure all files are of the same extension.": [
-        "কলামার আপলোডের জন্য একাধিক ফাইল অনুমোদিত নয়৷ নিশ্চিত করুন যে সমস্ত ফাইল একই এক্সটেনশনের"
+        ""
       ],
       "Database \"%(database_name)s\" schema \"%(schema_name)s\" is not allowed for columnar uploads. Please contact your Superset Admin.": [
-        "ডাটাবেস\ ডেটাবেসের নাম\ স্কিমা\(স্কিমা_নাম)\ কলামার আপলোডের জন্য অনুমোদিত নয়। আপনার সুপারসেট অ্যাডমিনের সাথে যোগাযোগ করুন "
+        ""
       ],
       "Unable to upload Columnar file \"%(filename)s\" to table \"%(table_name)s\" in database \"%(db_name)s\". Error message: %(error_msg)s": [
-        "কলামার ফাইল আপলোড করতে অক্ষম৷ \ফাইলের নাম\ টেবিল\ টেবিল নাম\ ডেটাবেস\ ডেটাবেসের নাম \ ভুল বার্তা"
+        ""
       ],
       "Columnar file \"%(columnar_filename)s\" uploaded to table \"%(table_name)s\" in database \"%(db_name)s\"": [
-        "কলাম ফাইল\ কলাম ফাইলের নাম\ টেবিলে আপলোড\ টেবিল নাম\ ডেটাবেস\ ডেটাবেসের নাম "
+        ""
       ],
-      "Request missing data field.": ["অনুপস্থিত ডেটা ক্ষেত্র"],
-      "Duplicate column name(s): %(columns)s": ["সদৃশ কলামের নাম"],
-      "Logs": ["লগ"],
-      "Show Log": ["লগ দেখান"],
-      "Add Log": ["লগ যোগ করুন"],
-      "Edit Log": ["লগ এডিট করুন"],
-      "User": ["ব্যবহারকারী"],
-      "Action": ["কর্ম"],
-      "dttm": ["িডটিএম"],
-      "JSON": ["জেসন"],
-      "Untitled Query": ["আনটাইটেল্ড কুয়ের"],
-      "Time Range": ["সময় সীমা"],
-      "Time Column": ["সময় কলাম"],
-      "Time Grain": ["সময় গ্রেইন"],
-      "Time Granularity": ["সময় গ্রেইনুলারিটি"],
-      "Time": ["সময়"],
+      "Request missing data field.": [""],
+      "Duplicate column name(s): %(columns)s": [""],
+      "Logs": [""],
+      "Show Log": [""],
+      "Add Log": [""],
+      "Edit Log": [""],
+      "User": [""],
+      "Action": [""],
+      "dttm": [""],
+      "JSON": [""],
+      "Untitled Query": [""],
+      "Time Range": [""],
+      "Time Column": [""],
+      "Time Grain": [""],
+      "Time Granularity": [""],
+      "Time": [""],
       "A reference to the [Time] configuration, taking granularity into account": [
-        "গ্রানুলারিটি বিবেচনায় নিয়ে [সময়] কনফিগারেশন"
+        ""
       ],
-      "Aggregate": ["এগরিগেট"],
-      "Raw records": ["প্রধান রেকর্ড"],
-      "Category name": ["বিভাগ নাম"],
-      "Total value": ["মোট মূল্য"],
-      "Minimum value": ["সর্বনিম্ন মান"],
-      "Maximum value": ["সর্বোচ্চ মূল্য"],
-      "Average value": ["গড় মূল্য"],
-      "Certified by %s": ["দ্বারা প্রত্যয়িত"],
-      "description": ["বর্ণনা"],
-      "bolt": ["বোল্ট"],
-      "Changing this control takes effect instantly": ["এই নিয়ন্ত্রণ পরিবর্তন তাৎক্ষণিকভাবে কার্যকর হয়"],
-      "Show info tooltip": ["তথ্য টুলটিপ দেখান"],
-      "SQL expression": ["SQL প্রকাশ"],
-      "Column datatype": ["কলামের ডেটাটাইপ"],
-      "Column name": ["কলামের নাম"],
-      "Label": ["লেবেল"],
-      "Metric name": ["মেট্রিকের নাম"],
-      "unknown type icon": ["আননোন আইকন"],
-      "function type icon": ["ফাংশন আইকন"],
-      "string type icon": ["স্ট্রিং ধরণের আইকন"],
-      "numeric type icon": ["সংখ্যাসূচক ধরণের আইকন"],
-      "boolean type icon": ["বুলিয়ান ধরণের আইকন"],
-      "temporal type icon": ["কালিক ধরণের আইকন"],
-      "Advanced analytics": ["উন্নত বিশ্লেষণ"],
+      "Aggregate": [""],
+      "Raw records": [""],
+      "Category name": [""],
+      "Total value": [""],
+      "Minimum value": [""],
+      "Maximum value": [""],
+      "Average value": [""],
+      "Certified by %s": [""],
+      "description": [""],
+      "bolt": [""],
+      "Changing this control takes effect instantly": [""],
+      "Show info tooltip": [""],
+      "SQL expression": [""],
+      "Column datatype": [""],
+      "Column name": [""],
+      "Label": [""],
+      "Metric name": [""],
+      "unknown type icon": [""],
+      "function type icon": [""],
+      "string type icon": [""],
+      "numeric type icon": [""],
+      "boolean type icon": [""],
+      "temporal type icon": [""],
+      "Advanced analytics": [""],
       "This section contains options that allow for advanced analytical post processing of query results": [
-        "এই অংশে কিছু অপশন রয়েছে যা কোয়েরির ফলাফল গভীরভাবে বিশ্লেষণ করার সুযোগ দেয়।"
+        ""
       ],
-      "Rolling window": ["রোলিং উইন্ডো"],
-      "Rolling function": ["রোলিং ফাংশন"],
-      "None": ["কিছু না"],
+      "Rolling window": [""],
+      "Rolling function": [""],
+      "None": [""],
       "Defines a rolling window function to apply, works along with the [Periods] text box": [
-        "রোলিং উইন্ডো ফাংশন নির্ধারণ করে, যা [পিরিয়ডস] টেক্সট বক্সের সাথে কাজ করে"
+        ""
       ],
-      "Periods": ["পিরিয়ডস"],
+      "Periods": [""],
       "Defines the size of the rolling window function, relative to the time granularity selected": [
-        "নির্বাচিত সময়ের গ্রেনুলারিটি রোলিং উইন্ডো ফাংশনের আকার নির্ধারণ করে"
+        ""
       ],
-      "Min periods": ["ন্যূনতম পিরিয়ডস"],
+      "Min periods": [""],
       "The minimum number of rolling periods required to show a value. For instance if you do a cumulative sum on 7 days you may want your \"Min Period\" to be 7, so that all data points shown are the total of 7 periods. This will hide the \"ramp up\" taking place over the first 7 periods": [
-        "একটি মান প্রদর্শনের জন্য প্রয়োজনীয় ন্যূনতম রোলিং পিরিয়ডসের সংখ্যা। যেমন, যদি আপনি ৭ দিনের উপর একটি কামুলেটিভ সাম করেন, আপনি হয়তো চাইবেন যে আপনার 'ন্যূনতম পিরিয়ড' হবে ৭, যাতে প্রদর্শিত সমস্ত ডেটা পয়েন্ট ৭ পিরিয়ডের মোট হয়। এটি প্রথম ৭ পিরিয়ডের উপর ঘটে যাওয়া 'র‌্যাম্প আপ' লুকিয়ে রাখবে"
+        ""
       ],
-      "Time comparison": ["সময় তুলনা"],
-      "Time shift": ["সময় পরিবর্তন"],
-      "1 day ago": ["১ দিন আগে"],
-      "1 week ago": ["১ সপ্তাহ আগে"],
-      "28 days ago": ["২৮ দিন আগে"],
-      "30 days ago": ["৩০ দিন আগে"],
-      "52 weeks ago": ["৫২ সপ্তাহ আগে"],
-      "1 year ago": ["১ বছর আগে"],
-      "104 weeks ago": ["১০৪ সপ্তাহ আগে"],
-      "2 years ago": ["২ বছর আগে"],
-      "156 weeks ago": ["১৫৬ সপ্তাহ আগে"],
-      "3 years ago": ["৩ বছর আগে"],
+      "Time comparison": [""],
+      "Time shift": [""],
+      "1 day ago": [""],
+      "1 week ago": [""],
+      "28 days ago": [""],
+      "30 days ago": [""],
+      "52 weeks ago": [""],
+      "1 year ago": [""],
+      "104 weeks ago": [""],
+      "2 years ago": [""],
+      "156 weeks ago": [""],
+      "3 years ago": [""],
       "Overlay one or more timeseries from a relative time period. Expects relative time deltas in natural language (example:  24 hours, 7 days, 52 weeks, 365 days). Free text is supported.": [
-        "এক বা একাধিক সময়সীমাকে আপেক্ষিক সময় পর্বের সাথে ওভারলে করুন। প্রাকৃতিক ভাষায় আপেক্ষিক সময়ের পরিবর্তন প্রত্যাশিত (উদাহরণ: ২৪ ঘণ্টা, ৭ দিন, ৫২ সপ্তাহ, ৩৬৫ দিন)। মুক্ত টেক্সট সমর্থিত।"
+        ""
       ],
-      "Calculation type": ["গণনার ধরন"],
-      "Actual values": ["প্রকৃত মানগুলি"],
-      "Difference": ["পার্থক্য"],
-      "Percentage change": ["শতাংশ পরিবর্তন"],
-      "Ratio": ["অনুপাত"],
+      "Calculation type": [""],
+      "Actual values": [""],
+      "Difference": [""],
+      "Percentage change": [""],
+      "Ratio": [""],
       "How to display time shifts: as individual lines; as the difference between the main time series and each time shift; as the percentage change; or as the ratio between series and time shifts.": [
-        "সময় পরিবর্তন কীভাবে প্রদর্শন করা হবে: পৃথক লাইন হিসেবে; মূল টাইম সিরিজ এবং প্রতিটি সময় পরিবর্তনের মধ্যে পার্থক্য হিসেবে; শতাংশ পরিবর্তন হিসেবে; অথবা সিরিজ ও সময় পরিবর্তনের মধ্যে অনুপাত হিসেবে।"
+        ""
       ],
-      "Resample": ["রিস্যাম্পল"],
-      "Rule": ["নিয়ম"],
-      "1 minutely frequency": ["প্রতি মিনিট ফ্রিকোয়েন্সি"],
-      "1 hourly frequency": ["তি ঘণ্টা ফ্রিকোয়েন্সি"],
-      "1 calendar day frequency": ["প্রতি ক্যালেন্ডার দিন ফ্রিকোয়েন্সি"],
-      "7 calendar day frequency": ["৭ ক্যালেন্ডার দিন ফ্রিকোয়েন্সি"],
-      "1 month start frequency": ["মাসের শুরুতে ফ্রিকোয়েন্সি"],
-      "1 month end frequency": ["মাসের শেষে ফ্রিকোয়েন্সি"],
-      "1 year start frequency": ["বছরের শুরুতে ফ্রিকোয়েন্সি"],
-      "1 year end frequency": ["বছরের শেষে ফ্রিকোয়েন্সি"],
-      "Pandas resample rule": ["পান্ডাস রিস্যাম্পল নিয়ম"],
-      "Fill method": ["পূরণ পদ্ধতি"],
-      "Null imputation": ["নাল পূরণ"],
-      "Zero imputation": ["শূন্য পূরণ"],
-      "Linear interpolation": ["রৈখিক ইন্টারপোলেশন"],
-      "Forward values": ["অগ্রিম মান"],
-      "Backward values": ["পিছনের মান"],
-      "Median values": ["মধ্যম মান"],
-      "Mean values": ["গড় মান"],
-      "Sum values": ["সমষ্টি মান"],
-      "Pandas resample method": ["পান্ডাস রিস্যাম্পল পদ্ধতি"],
-      "Annotations and Layers": ["এনোটেশন এবং লেয়ার"],
-      "Left": ["বাম"],
-      "Top": ["উপরে"],
-      "Chart Title": ["চার্ট শিরোনাম"],
-      "X Axis": ["এক্স অক্ষ"],
-      "X Axis Title": ["এক্স অক্ষের শিরোনাম"],
-      "X AXIS TITLE BOTTOM MARGIN": ["এক্স অক্ষের শিরোনামের নিচের মার্জিন"],
-      "Y Axis": ["ওয়াই অক্ষ"],
-      "Y Axis Title": ["ওয়াই অক্ষের শিরোনাম"],
-      "Y Axis Title Margin": ["ওয়াই অক্ষের শিরোনামের মার্জিন"],
-      "Y Axis Title Position": ["ওয়াই অক্ষের শিরোনামের অবস্থান"],
-      "Query": ["কুয়েরি"],
-      "Predictive Analytics": ["পূর্বাভাসী বিশ্লেষণ"],
-      "Enable forecast": ["পূর্বাভাস সক্রিয় করুন"],
-      "Enable forecasting": ["পূর্বাভাস করার সুযোগ"],
-      "Forecast periods": ["পূর্বাভাসের মেয়াদকাল"],
-      "How many periods into the future do we want to predict": ["ভবিষ্যতে কত মেয়াদের পূর্বাভাস করতে চাই"],
-      "Confidence interval": ["আস্থা ব্যবধান"],
-      "Width of the confidence interval. Should be between 0 and 1": ["আস্থা ব্যবধান প্রস্থ ০ এবং ১ এর মধ্যে হতে হবে"],
-      "Yearly seasonality": ["বার্ষিক ঋতুসম্পন্নতা"],
-      "default": ["ডিফল্ট"],
-      "Yes": ["হাঁ"],
-      "No": ["না"],
+      "Resample": [""],
+      "Rule": [""],
+      "1 minutely frequency": [""],
+      "1 hourly frequency": [""],
+      "1 calendar day frequency": [""],
+      "7 calendar day frequency": [""],
+      "1 month start frequency": [""],
+      "1 month end frequency": [""],
+      "1 year start frequency": [""],
+      "1 year end frequency": [""],
+      "Pandas resample rule": [""],
+      "Fill method": [""],
+      "Null imputation": [""],
+      "Zero imputation": [""],
+      "Linear interpolation": [""],
+      "Forward values": [""],
+      "Backward values": [""],
+      "Median values": [""],
+      "Mean values": [""],
+      "Sum values": [""],
+      "Pandas resample method": [""],
+      "Annotations and Layers": [""],
+      "Left": [""],
+      "Top": [""],
+      "Chart Title": [""],
+      "X Axis": [""],
+      "X Axis Title": [""],
+      "X AXIS TITLE BOTTOM MARGIN": [""],
+      "Y Axis": [""],
+      "Y Axis Title": [""],
+      "Y Axis Title Margin": [""],
+      "Y Axis Title Position": [""],
+      "Query": [""],
+      "Predictive Analytics": [""],
+      "Enable forecast": [""],
+      "Enable forecasting": [""],
+      "Forecast periods": [""],
+      "How many periods into the future do we want to predict": [""],
+      "Confidence interval": [""],
+      "Width of the confidence interval. Should be between 0 and 1": [""],
+      "Yearly seasonality": [""],
+      "default": [""],
+      "Yes": [""],
+      "No": [""],
       "Should yearly seasonality be applied. An integer value will specify Fourier order of seasonality.": [
-        "বার্ষিক ঋতুসম্পন্নতা প্রয়োগ করা উচিত কিনা। একটি পূর্ণাংক মান ঋতুসম্পন্নতার ফুরিয়ের ক্রমটি নির্ধারণ করবে।"
+        ""
       ],
-      "Weekly seasonality": ["সাপ্তাহিক ঋতুসম্পন্নতা"],
+      "Weekly seasonality": [""],
       "Should weekly seasonality be applied. An integer value will specify Fourier order of seasonality.": [
-        "সাপ্তাহিক ঋতুসম্পন্নতা প্রয়োগ করা উচিত কিনা। একটি পূর্ণাংক মান ঋতুসম্পন্নতার ফুরিয়ের ক্রমটি নির্ধারণ করবে।"
+        ""
       ],
-      "Daily seasonality": ["দৈনিক ঋতুসম্পন্নতা"],
+      "Daily seasonality": [""],
       "Should daily seasonality be applied. An integer value will specify Fourier order of seasonality.": [
-        "দৈনিক ঋতুসম্পন্নতা প্রয়োগ করা উচিত কিনা। একটি পূর্ণাংক মান ঋতুসম্পন্নতার ফুরিয়ের ক্রমটি নির্ধারণ করবে।"
+        ""
       ],
-      "Time related form attributes": ["সময় সম্পর্কিত ফর্ম বৈশিষ্ট্য"],
-      "Datasource & Chart Type": ["ডেটাসোর্স এবং চার্টের প্রকার"],
-      "Chart ID": ["চার্ট আইডি"],
-      "The id of the active chart": ["সক্রিয় চার্টের আইডি"],
-      "Cache Timeout (seconds)": ["ক্যাশ সময় সীমা (সেকেন্ড)"],
-      "The number of seconds before expiring the cache": ["ক্যাশ মেয়াদ উত্তীর্ণ হওয়ার আগের সেকেন্ডের সংখ্যা"],
-      "URL Parameters": ["URL পরামিতি"],
-      "Extra url parameters for use in Jinja templated queries": ["জিঞ্জা টেমপ্লেট কুয়েরিতে ব্যবহারের জন্য অতিরিক্ত URL পরামিতি"],
-      "Extra Parameters": ["অতিরিক্ত পরামিতি"],
+      "Time related form attributes": [""],
+      "Datasource & Chart Type": [""],
+      "Chart ID": [""],
+      "The id of the active chart": [""],
+      "Cache Timeout (seconds)": [""],
+      "The number of seconds before expiring the cache": [""],
+      "URL Parameters": [""],
+      "Extra url parameters for use in Jinja templated queries": [""],
+      "Extra Parameters": [""],
       "Extra parameters that any plugins can choose to set for use in Jinja templated queries": [
-        "যে কোনও প্লাগইন ব্যবহারের জন্য যে কোনও অতিরিক্ত পরামিতি সেট করতে পারেন জিঞ্জা টেমপ্লেট কুয়েরিতে"
+        ""
       ],
-      "Color Scheme": ["রঙের স্কিম"],
-      "Contribution Mode": ["অবদান মোড"],
-      "Row": ["সারি"],
-      "Series": ["সিরিজ"],
-      "Calculate contribution per series or row": ["প্রতি সিরিজ বা সারি গণনা করুন"],
-      "Y-Axis Sort By": ["Y-অক্ষে দ্বারা সাজানো"],
-      "X-Axis Sort By": ["X-অক্ষে দ্বারা সাজানো "],
-      "Decides which column to sort the base axis by.": ["কোন কলাম বেস অক্ষ দ্বারা সাজানো হবে তা নির্ধারণ করে।"],
-      "Y-Axis Sort Ascending": ["Y-অক্ষে সাজানো আরোহী"],
-      "X-Axis Sort Ascending": ["X-অক্ষে সাজানো আরোহী"],
-      "Whether to sort ascending or descending on the base Axis.": ["বেস অক্ষে আরোহী বা অবতরণীয় সাজানো হবে কি না।"],
-      "Force categorical": ["বাধ্য ক্যাটাগরিক্যাল"],
-      "Treat values as categorical.": ["মানগুলি ক্যাটাগরিক্যাল হিসাবে ব্যবহার করুন।"],
-      "Decides which measure to sort the base axis by.": ["কোন মাপকাঠি বেস অক্ষ দ্বারা সাজানো হবে তা নির্ধারণ করে।"],
-      "Dimensions": ["মাত্রা"],
+      "Color Scheme": [""],
+      "Contribution Mode": [""],
+      "Row": [""],
+      "Series": [""],
+      "Calculate contribution per series or row": [""],
+      "Y-Axis Sort By": [""],
+      "X-Axis Sort By": [""],
+      "Decides which column to sort the base axis by.": [""],
+      "Y-Axis Sort Ascending": [""],
+      "X-Axis Sort Ascending": [""],
+      "Whether to sort ascending or descending on the base Axis.": [""],
+      "Force categorical": [""],
+      "Treat values as categorical.": [""],
+      "Decides which measure to sort the base axis by.": [""],
+      "Dimensions": [""],
       "Dimensions contain qualitative values such as names, dates, or geographical data. Use dimensions to categorize, segment, and reveal the details in your data. Dimensions affect the level of detail in the view.": [
-        "মাত্রাগুলি নাম, তারিখ বা ভৌগোলিক তথ্য সহ মানগুলির গুণাত্মক মান ধারণ করে।ডেটাতে বিশ্লেষণ, বিভাগীকরণ এবং বিস্তারিত বিবরণ উপস্থাপনের জন্য মাত্রা ব্যবহার করুন। মাত্রাগুলি দৃশ্যে বিস্তারের স্তরের উপর প্রভাব ফেলে।"
+        ""
       ],
-      "Add dataset columns here to group the pivot table columns.": ["পিভোট টেবিল কলামগুলি গোষ্ঠীবদ্ধ করতে এখানে ডেটা সেট কলাম যোগ করুন।"],
-      "Dimension": ["মাত্রা"],
+      "Add dataset columns here to group the pivot table columns.": [""],
+      "Dimension": [""],
       "Defines the grouping of entities. Each series is represented by a specific color in the chart.": [
         "এটি একটি ইতিমধ্যে দেখানো গণতান্ত্রিক যৌগের গোষ্ঠীবদ্ধকরণ নির্ধারণ করে। চার্টে প্রতিটি সিরিজ একটি নির্দিষ্ট রঙের মাধ্যমে প্রতিনিধিত্বিত করা হয়"
       ],

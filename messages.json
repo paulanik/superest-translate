@@ -1498,23 +1498,23 @@
       "Dark Cyan": ["গাঢ় সায়ান"],
       "Purple": ["বেগুনি"],
       "Gold": ["সোনা"],
-      "Dim Gray": [""],
-      "Crimson": [""],
-      "Forest Green": [""],
-      "Longitude": [""],
-      "Column containing longitude data": [""],
-      "Latitude": [""],
-      "Column containing latitude data": [""],
-      "Clustering Radius": [""],
+      "Dim Gray": ["ধূসর"],
+      "Crimson": ["গাঢ় লাল"],
+      "Forest Green": ["সবুজ অরণ্য"],
+      "Longitude": ["দ্রাঘিমাংশ"],
+      "Column containing longitude data": ["দ্রাঘিমাংশ ডেটা ধারণকারী কলাম"],
+      "Latitude": ["অক্ষাংশ"],
+      "Column containing latitude data": ["অক্ষাংশের ডেটা ধারণকারী কলাম"],
+      "Clustering Radius": ["ক্লাস্টারিং রেডিয়াস"],
       "The radius (in pixels) the algorithm uses to define a cluster. Choose 0 to turn off clustering, but beware that a large number of points (>1000) will cause lag.": [
-        ""
+        "অ্যালগরিদম ক্লাস্টার সংজ্ঞায়িত করতে যে রেডিয়াসটি (পিক্সেলে) ব্যবহার করে। ক্লাস্টারিং বন্ধ করতে 0 নির্বাচন করুন, তবে প্রচুর সংখ্যক পয়েন্ট (>1000) ল্যাগ সৃষ্টি করবে।"
       ],
-      "Points": [""],
-      "Point Radius": [""],
+      "Points": ["পয়েন্টগুলি"],
+      "Point Radius": ["পয়েন্ট রেডিয়াস"],
       "The radius of individual points (ones that are not in a cluster). Either a numerical column or `Auto`, which scales the point based on the largest cluster": [
-        ""
+        "স্বতন্ত্র পয়েন্টগুলির রেডিয়াস (যেগুলি একটি ক্লাস্টারে নেই)। হয় একটি সংখ্যাসূচক কলাম বা 'অটো', যা সবচেয়ে বড় ক্লাস্টারের উপর ভিত্তি করে পয়েন্ট স্কেল করে।"
       ],
-      "Auto": [""],
+      "Auto": ["অটো"],
       "Point Radius Unit": [""],
       "Pixels": [""],
       "Miles": [""],

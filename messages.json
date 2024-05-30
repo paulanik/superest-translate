@@ -502,7 +502,7 @@
       "Offset": ["অফসেট"],
       "Cache Timeout": ["ক্যাশের সময় সীমা"],
       "Table Name": ["টেবিল নাম"],
-      "Fetch Values Predicate": [""],
+      "Fetch Values Predicate": ["মানগুলি আনার পূর্বশর্ত"],
       "Owners": ["মালিক"],
       "Main Datetime Column": ["মূল তারিখ কলাম "],
       "SQL Lab View": ["এসকিউএল ল্যাব দৃশ্য"],

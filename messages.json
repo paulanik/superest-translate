@@ -1922,82 +1922,82 @@
       "Y Axis 2 Bounds": ["Y অক্ষ 2 সীমা"],
       "X bounds": ["X সীমা"],
       "Whether to display the min and max values of the X-axis": ["X-অক্ষের সর্বনিম্ন এবং সর্বাধিক মান প্রদর্শন করা হবে কিনা"],
-      "Bar Values": [""],
-      "Show the value on top of the bar": [""],
-      "Stacked Bars": [""],
-      "Reduce X ticks": [""],
+      "Bar Values": ["বার মান"],
+      "Show the value on top of the bar": ["বারের উপরে মান দেখান"],
+      "Stacked Bars": ["স্ট্যাক করা বার"],
+      "Reduce X ticks": ["X টিক্স কমান"],
       "Reduces the number of X-axis ticks to be rendered. If true, the x-axis will not overflow and labels may be missing. If false, a minimum width will be applied to columns and the width may overflow into an horizontal scroll.": [
-        ""
+        "X-অক্ষের টিক্সের সংখ্যা কমায়। যদি সত্য হয়, তবে x-অক্ষটি ওভারফ্লো করবে না এবং লেবেলগুলি অনুপস্থিত থাকতে পারে। যদি মিথ্যা হয়, তবে কলামগুলির জন্য একটি ন্যূনতম প্রস্থ প্রয়োগ করা হবে এবং প্রস্থটি অনুভূমিক স্ক্রলে ওভারফ্লো করতে পারে।"
       ],
-      "You cannot use 45° tick layout along with the time range filter": [""],
-      "Stacked Style": [""],
-      "stack": [""],
-      "stream": [""],
-      "expand": [""],
-      "Evolution": [""],
+      "You cannot use 45° tick layout along with the time range filter": ["আপনি সময় পরিসীমা ফিল্টার সহ ৪৫° টিক লেআউট ব্যবহার করতে পারবেন না"],
+      "Stacked Style": ["স্ট্যাক করা শৈলী"],
+      "stack": ["স্ট্যাক"],
+      "stream": ["স্ট্রিম"],
+      "expand": ["প্রসারণ"],
+      "Evolution": ["বিবর্তন"],
       "A time series chart that visualizes how a related metric from multiple groups vary over time. Each group is visualized using a different color.": [
-        ""
+        "একটি টাইম সিরিজ চার্ট যা বিভিন্ন গ্রুপ থেকে একটি সম্পর্কিত মেট্রিক কীভাবে সময়ের সাথে পরিবর্তিত হয় তা চিত্রিত করে। প্রতিটি গ্রুপ বিভিন্ন রঙ ব্যবহার করে চিত্রিত করা হয়।"
       ],
-      "Stretched style": [""],
-      "Stacked style": [""],
-      "Video game consoles": [""],
-      "Vehicle Types": [""],
-      "Time-series Area Chart (legacy)": [""],
-      "Continuous": [""],
-      "Line": [""],
-      "nvd3": [""],
-      "Series Limit Sort By": [""],
+      "Stretched style": ["প্রসারিত শৈলী"],
+      "Stacked style": ["স্ট্যাক করা শৈলী"],
+      "Video game consoles": ["ভিডিও গেম কনসোল"],
+      "Vehicle Types": ["যানবাহনের ধরন"],
+      "Time-series Area Chart (legacy)": ["টাইম-সিরিজ এরিয়া চার্ট (পুরানো)"],
+      "Continuous": ["অবিচ্ছিন্ন"],
+      "Line": ["লাইন"],
+      "nvd3": ["nvd3"],
+      "Series Limit Sort By": ["সিরিজ সীমা দ্বারা বাছাই"],
       "Metric used to order the limit if a series limit is present. If undefined reverts to the first metric (where appropriate).": [
-        ""
+        "যদি একটি সিরিজ সীমা উপস্থিত থাকে তবে সীমা অর্ডার করার জন্য ব্যবহৃত মেট্রিক। যদি সংজ্ঞায়িত না হয় তবে প্রথম মেট্রিক (যেখানে প্রযোজ্য) এ ফিরে আসে।"
       ],
-      "Series Limit Sort Descending": [""],
+      "Series Limit Sort Descending": ["সিরিজ সীমা ক্রমবর্ধমান"],
       "Whether to sort descending or ascending if a series limit is present": [
-        ""
+        "যদি একটি সিরিজ সীমা উপস্থিত থাকে তবে ক্রমবর্ধমান বা অবনতিশীলভাবে বাছাই করতে হবে কিনা"
       ],
       "Visualize how a metric changes over time using bars. Add a group by column to visualize group level metrics and how they change over time.": [
-        ""
+        "বার ব্যবহার করে একটি মেট্রিক কীভাবে সময়ের সাথে পরিবর্তিত হয় তা চিত্রিত করুন। গ্রুপ স্তরের মেট্রিক এবং সেগুলি কীভাবে সময়ের সাথে পরিবর্তিত হয় তা দেখতে একটি গ্রুপ বাই কলাম যোগ করুন।"
       ],
-      "Time-series Bar Chart (legacy)": [""],
-      "Bar": [""],
-      "Box Plot": [""],
-      "X Log Scale": [""],
-      "Use a log scale for the X-axis": [""],
+      "Time-series Bar Chart (legacy)": ["টাইম-সিরিজ বার চার্ট (পুরানো)"],
+      "Bar": ["বার"],
+      "Box Plot": ["বক্স প্লট"],
+      "X Log Scale": ["X লগ স্কেল"],
+      "Use a log scale for the X-axis": ["X-অক্ষের জন্য একটি লগ স্কেল ব্যবহার করুন"],
       "Visualizes a metric across three dimensions of data in a single chart (X axis, Y axis, and bubble size). Bubbles from the same group can be showcased using bubble color.": [
-        ""
+        "একক চার্টে (X অক্ষ, Y অক্ষ, এবং বুদ্বুদের আকার) তিনটি মাত্রায় একটি মেট্রিক চিত্রিত করে। একই গ্রুপের বুদ্বুদগুলি বুদ্বুদ রঙ ব্যবহার করে প্রদর্শিত হতে পারে।"
       ],
-      "Bubble Chart (legacy)": [""],
-      "Ranges": [""],
-      "Ranges to highlight with shading": [""],
-      "Range labels": [""],
-      "Labels for the ranges": [""],
-      "Markers": [""],
-      "List of values to mark with triangles": [""],
-      "Marker labels": [""],
-      "Labels for the markers": [""],
-      "Marker lines": [""],
-      "List of values to mark with lines": [""],
-      "Marker line labels": [""],
-      "Labels for the marker lines": [""],
-      "KPI": [""],
+      "Bubble Chart (legacy)": ["বুদ্বুদ চার্ট (পুরানো)"],
+      "Ranges": ["পরিসীমা"],
+      "Ranges to highlight with shading": ["শেডিং সহ হাইলাইট করার জন্য পরিসীমা"],
+      "Range labels": ["পরিসীমা লেবেল"],
+      "Labels for the ranges": ["পরিসীমার জন্য লেবেল"],
+      "Markers": ["মার্কার"],
+      "List of values to mark with triangles": ["ত্রিভুজ দিয়ে চিহ্নিত করতে মানগুলির তালিকা"],
+      "Marker labels": ["মার্কার লেবেল"],
+      "Labels for the markers": ["মার্কারগুলির জন্য লেবেল"],
+      "Marker lines": ["মার্কার লাইন"],
+      "List of values to mark with lines": ["লাইন দিয়ে চিহ্নিত করার জন্য মানগুলির তালিকা"],
+      "Marker line labels": ["মার্কার লাইন লেবেল"],
+      "Labels for the marker lines": ["মার্কার লাইনের জন্য লেবেল"],
+      "KPI": ["KPI"],
       "Showcases the progress of a single metric against a given target. The higher the fill, the closer the metric is to the target.": [
-        ""
+        "একটি নির্দিষ্ট লক্ষ্যের বিরুদ্ধে একটি একক মেট্রিকের অগ্রগতি প্রদর্শন করে। ফিল যত বেশি হবে, মেট্রিক লক্ষ্যটির কাছাকাছি হবে।"
       ],
       "Visualizes many different time-series objects in a single chart. This chart is being deprecated and we recommend using the Time-series Chart instead.": [
-        ""
+        "একক চার্টে অনেক ভিন্ন টাইম-সিরিজ অবজেক্ট চিত্রিত করে। এই চার্টটি অব্যবহৃত হচ্ছে এবং আমরা পরিবর্তে টাইম-সিরিজ চার্ট ব্যবহার করার পরামর্শ দিই।"
       ],
-      "Time-series Percent Change": [""],
-      "Sort Bars": [""],
-      "Sort bars by x labels.": [""],
-      "Breakdowns": [""],
-      "Defines how each series is broken down": [""],
+      "Time-series Percent Change": ["টাইম-সিরিজ শতাংশ পরিবর্তন"],
+      "Sort Bars": ["বার সাজান"],
+      "Sort bars by x labels.": ["X লেবেল দ্বারা বার সাজান।"],
+      "Breakdowns": ["ভাঙন"],
+      "Defines how each series is broken down": ["প্রতিটি সিরিজ কীভাবে ভাঙা হয় তা সংজ্ঞায়িত করে"],
       "Compares metrics from different categories using bars. Bar lengths are used to indicate the magnitude of each value and color is used to differentiate groups.": [
-        ""
+        "বার ব্যবহার করে বিভিন্ন বিভাগের মেট্রিক তুলনা করে। প্রতিটি মানের পরিমাণ নির্দেশ করতে বার দৈর্ঘ্য ব্যবহার করা হয় এবং গ্রুপগুলি পার্থক্য করতে রঙ ব্যবহার করা হয়।"
       ],
-      "Bar Chart (legacy)": [""],
-      "Additive": [""],
-      "Propagate": [""],
-      "Send range filter events to other charts": [""],
-      "Classic chart that visualizes how metrics change over time.": [""],
+      "Bar Chart (legacy)": ["বার চার্ট (পুরানো)"],
+      "Additive": ["যোগাযোগ"],
+      "Propagate": ["প্রসারিত"],
+      "Send range filter events to other charts": ["অন্যান্য চার্টে রেঞ্জ ফিল্টার ইভেন্ট পাঠান"],
+      "Classic chart that visualizes how metrics change over time.": ["ক্লাসিক চার্ট যা মেট্রিকগুলি কীভাবে সময়ের সাথে পরিবর্তিত হয় তা চিত্রিত করে।"],
       "Battery level over time": ["সময়ের সাথে ব্যাটারির স্তর"],
       "Time-series Line Chart (legacy)": ["সময়-ধারামুখী লাইন চার্ট (প্রাচীন)"],
       "Label Type": ["লেবেলের ধরণ"],

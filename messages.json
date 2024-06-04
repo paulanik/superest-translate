@@ -135,7 +135,7 @@
       "Bad spatial key": ["খারাপ স্থানিক কী"],
       "Invalid spatial point encountered: %(latlong)s": ["অবৈধ স্থানিক বিন্দু"],
       "Encountered invalid NULL spatial entry,please consider filtering those out": [
-        ""
+        "অবৈধ NULL স্থানিক এন্ট্রির সম্মুখীন হয়েছে, অনুগ্রহ করে সেগুলিকে ফিল্টার করার কথা বিবেচনা করুন"
       ],
       "Deck.gl - Scatter plot": ["বিক্ষিপ্ত চক্রান্ত"],
       "Deck.gl - Screen Grid": ["স্ক্রিন গ্রিড"],
@@ -200,7 +200,7 @@
       "Annotation could not be created.": ["টীকা তৈরি করা যায়নি"],
       "Annotation could not be updated.": ["টীকা আপডেট করা যায়নি।"],
       "Annotations could not be deleted.": ["টীকাগুলি মুছে ফেলা যায়নি"],
-      "There are associated alerts or reports: %(report_names)s": [""],
+      "There are associated alerts or reports: %(report_names)s": ["সংশ্লিষ্ট সতর্কতা বা রিপোর্ট আছে:%(report_names)s"],
       "Time string is ambiguous. Please specify [%(human_readable)s ago] or [%(human_readable)s later].": [
         "সময়ের স্ট্রিং অস্পষ্ট। দয়া করে [%(human_readable)s আগে] বা [%(human_readable)s পরে] নির্দিষ্ট করুন"
       ],
@@ -3326,7 +3326,7 @@
       "Any additional detail to show in the certification tooltip.": ["সার্টিফিকেশন টুলটিপে দেখানোর জন্য অতিরিক্ত বিবরণ"],
       "A list of tags that have been applied to this chart.": ["এই চার্টে প্রয়োগ করা ট্যাগগুলির একটি তালিকা"],
       "JSON metadata": ["JSON মেটাডেটা"],
-      "Please DO NOT overwrite the \"filter_scopes\" key.": ["অনুগ্রহ করে "filter_scopes" \"key" ওভাররাইট করবেন না"],
+      "Please DO NOT overwrite the \"filter_scopes\" key.": ["অনুগ্রহ করে 'filter_scopes' \'key' ওভাররাইট করবেন না"],
       "Use \"%(menuName)s\" menu instead.": [" মেনু ব্যবহার করুন।"],
       "This dashboard is not published, it will not show up in the list of dashboards. Click here to publish this dashboard.": [
         "এই ড্যাশবোর্ডটি প্রকাশিত হয়নি, এটি ড্যাশবোর্ডগুলির তালিকায় প্রদর্শিত হবে না। এই ড্যাশবোর্ডটি প্রকাশ করতে এখানে ক্লিক করুন।"
